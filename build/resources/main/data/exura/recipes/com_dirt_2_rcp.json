@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA    "
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:compressed_dirt"
+    }
+  },
+  "result": {
+    "item": "exura:double_compressed_dirt",
+    "count": 1
+  }
+}

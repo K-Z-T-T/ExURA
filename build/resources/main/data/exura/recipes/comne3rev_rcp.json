@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exura:triple_compressed_netherrack"
+    }
+  ],
+  "result": {
+    "item": "exura:double_compressed_netherrack",
+    "count": 9
+  }
+}

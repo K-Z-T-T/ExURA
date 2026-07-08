@@ -1,0 +1,15 @@
+{
+  "type": "exura:resonator",
+  "input": [
+    {
+      "tag": "forge:gems/lapis"
+    }
+  ],
+  "output": [
+    {
+      "item": "exura:dye_powder_lunar",
+      "count": 1
+    }
+  ],
+  "processingTime" : 80
+}

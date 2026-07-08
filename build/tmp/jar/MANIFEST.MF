@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: exura
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: ExURA
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: 
+Implementation-Timestamp: 2026-07-08T10:41:24+0800
+

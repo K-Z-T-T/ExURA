@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "exura:block/pink_front",
+    "side": "exura:block/pink_side",
+    "top": "exura:block/pink_top"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exura:quadruple_compressed_dirt"
+    }
+  ],
+  "result": {
+    "item": "exura:triple_compressed_dirt",
+    "count": 9
+  }
+}

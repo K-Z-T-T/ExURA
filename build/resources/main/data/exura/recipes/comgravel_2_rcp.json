@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:compressed_gravel"
+    }
+  },
+  "result": {
+    "item": "exura:double_compressed_gravel",
+    "count": 1
+  }
+}

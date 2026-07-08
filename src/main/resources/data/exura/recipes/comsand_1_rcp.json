@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "exura:compressed_sand"
+    },
+    "1": {
+      "item": "exura:compressed_sand"
+    },
+    "2": {
+      "item": "exura:compressed_sand"
+    },
+    "3": {
+      "item": "exura:compressed_sand"
+    },
+    "4": {
+      "item": "exura:compressed_sand"
+    },
+    "5": {
+      "item": "exura:compressed_sand"
+    },
+    "6": {
+      "item": "exura:compressed_sand"
+    },
+    "7": {
+      "item": "exura:compressed_sand"
+    },
+    "8": {
+      "item": "exura:compressed_sand"
+    }
+  },
+  "result": {
+    "item": "exura:double_compressed_sand",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "共振仪",
+  "icon": "exura:resonator",
+  "category": "exura:block_description",
+  "read_by_default": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "共振仪是一个很有用的机器，它需要使用GP。$(br)配方：$(br)磨制石头 -> 烧制石头 (时间：80 ticks)$(br)煤炭 -> 红煤 (时间：80 ticks)$(br)标签：forge:gems/lapis -> 月球之尘 (时间：80 ticks)$(br)轻质测重压力板 -> 基础升级 (时间：80 ticks)"
+    }
+  ]
+}

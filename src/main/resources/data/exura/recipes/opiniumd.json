@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "exura:opiniumc"
+    },
+    "B": {
+      "item": "minecraft:diamond_block"
+    },
+
+    "C": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "exura:opiniumd",
+    "count": 1
+  }
+}

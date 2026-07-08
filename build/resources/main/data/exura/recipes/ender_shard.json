@@ -1,0 +1,19 @@
+{
+  "type": "recipesapi:durability_shapeless",
+  "result": {
+    "item": "exura:ender_shard",
+    "count": 8
+  },
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:ender_pearl"
+      }
+    ],
+    [
+      {
+        "item": "exura:glass_cutter"
+      }
+    ]
+  ]
+}

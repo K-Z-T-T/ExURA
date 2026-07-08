@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "side": "exura:block/furnace_generator",
+    "top": "exura:block/furnace_generator_top",    "front": "exura:block/furnace_generator"
+
+
+  }
+}

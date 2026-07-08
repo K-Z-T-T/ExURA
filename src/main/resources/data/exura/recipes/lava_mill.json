@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ACA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "exura:polished_stone"
+    },
+    "B": {
+      "item": "minecraft:gold_ingot"
+    },
+    "C": {
+      "item": "exura:redstone_crystal"
+    }
+  },
+  "result": {
+    "item": "exura:lava_mill",
+    "count": 1
+  }
+}

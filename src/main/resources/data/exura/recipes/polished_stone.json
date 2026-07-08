@@ -1,0 +1,15 @@
+{
+  "type": "exura:resonator",
+  "input": [
+    {
+      "item": "exura:polished_stone"
+    }
+  ],
+  "output": [
+    {
+      "item": "exura:stoneburnt",
+      "count": 1
+    }
+  ],
+  "processingTime" : 80
+}

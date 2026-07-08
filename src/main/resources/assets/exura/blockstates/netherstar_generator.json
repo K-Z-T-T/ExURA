@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "exura:block/netherstar_generator",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "exura:block/netherstar_generator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "exura:block/netherstar_generator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "exura:block/netherstar_generator",
+      "y": 270
+    }
+  }
+}

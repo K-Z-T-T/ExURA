@@ -1,0 +1,13 @@
+{
+  "name": "压缩方块",
+  "icon": "exura:compressed_cobblestone",
+  "category": "exura:block_description",
+  "read_by_default": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "压缩方块分为圆石、地狱岩、沙子、沙砾四种。$(br)可用于大批量存储这些物品。"
+    }
+  ]
+}

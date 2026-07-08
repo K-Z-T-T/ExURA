@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [[
+    {
+      "item": "exura:ender_shard"
+    }],
+    [{"item":"minecraft:redstone"}],
+    [{"item":"minecraft:redstone"}],
+    [{"item":"minecraft:redstone"}],
+    [{"item":"minecraft:redstone"}]
+  ],
+  "result": {
+    "item": "exura:redstone_crystal",
+    "count": 1
+  }
+}

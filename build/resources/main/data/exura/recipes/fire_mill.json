@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ADA"
+  ],
+  "key": {
+    "A": {
+      "item": "exura:polished_stone"
+    },
+    "B": {
+      "item": "exura:redstone_gear"
+    },
+    "C": {
+      "item": "exura:redstone_crystal"
+    },
+    "D": {
+      "item": "minecraft:nether_brick_fence"
+    }
+  },
+  "result": {
+    "item": "exura:fire_mill",
+    "count": 1
+  }
+}

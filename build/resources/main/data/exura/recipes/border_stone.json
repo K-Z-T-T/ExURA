@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AB",
+    "BA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stone"
+    },
+    "B": {
+      "item": "minecraft:stonebrick"
+    }
+  },
+  "result": {
+    "item": "exura:crossed_stone",
+    "count": 4
+  }
+}

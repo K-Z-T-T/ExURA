@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:compressed_sand"
+    }
+  },
+  "result": {
+    "item": "exura:double_compressed_sand",
+    "count": 1
+  }
+}

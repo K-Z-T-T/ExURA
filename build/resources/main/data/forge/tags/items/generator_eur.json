@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "exura:ender_generator",
+    "exura:furnace_generator",
+    "exura:magma_generator",
+    "exura:disenchantment_generator",
+    "exura:culinary_generator",
+    "exura:halitosis_generator",
+    "exura:potion_generator_1",
+    "exura:survival_generator",
+    "exura:overclocked_generator",
+    "exura:netherstar_generator",
+    "exura:resonator",
+    "exura:redstone_generator",
+    "exura:tnt_generator",
+    "exura:death_generator",
+    "exura:frosty_generator_1",
+    "exura:pink_generator",
+    "exura:slimey_generator"
+  ]
+}

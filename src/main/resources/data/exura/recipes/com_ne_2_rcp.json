@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:compressed_netherrack"
+    },
+    "1": {
+      "tag": "forge:compressed_netherrack"
+    },
+    "2": {
+      "tag": "forge:compressed_netherrack"
+    },
+    "3": {
+      "tag": "forge:compressed_netherrack"
+    },
+    "4": {
+      "tag": "forge:compressed_netherrack"
+    },
+    "5": {
+      "tag": "forge:compressed_netherrack"
+    },
+    "6": {
+      "tag": "forge:compressed_netherrack"
+    },
+    "7": {
+      "tag": "forge:compressed_netherrack"
+    },
+    "8": {
+      "tag": "forge:compressed_netherrack"
+    }
+  },
+  "result": {
+    "item": "exura:double_compressed_netherrack",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "side": "exura:block/resonator_red",
+    "front": "exura:block/resonator_red",
+
+    "top": "exura:block/resonator_top"
+  }
+}

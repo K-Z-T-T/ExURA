@@ -1,0 +1,13 @@
+{
+  "name": "Resonator",
+  "icon": "exura:resonator",
+  "category": "exura:block_description",
+  "read_by_default": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Resonator is a useful machine. It need to use GP. $(br) Recipes: $(br) polished stone -> stoneburnt (time: 80 ticks) $(br) coal -> red coal (time: 80 ticks) $(br) tag: forge:gems/lapis -> dye puwder lunar (time: 80 ticks) $(br) Light Weighted Pressure Plate -> upgrade base (time: 80 ticks)"
+    }
+  ]
+}

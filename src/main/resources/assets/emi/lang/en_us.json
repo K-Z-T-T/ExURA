@@ -1,0 +1,6 @@
+{
+  "emi.info.dye_powder_lunar": "Machine: Resonator\nInput: tag: forge:gems/lapis\nOutput: Dye Powder Lunar",
+  "emi.info.upgrade_base": "Machine: Resonator\nInput: Light Weighted Pressure Plate\nOutput: Upgrade Base",
+  "emi.info.red_coal": "Machine: Resonator\nInput: Coal\nOutput: Red Coal",
+  "emi.info.stoneburnt": "Machine: Resonator\nInput: Polished Stone\nOutput: Stoneburnt"
+}

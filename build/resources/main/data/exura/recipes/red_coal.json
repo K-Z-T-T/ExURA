@@ -1,0 +1,15 @@
+{
+  "type": "exura:resonator",
+  "input": [
+    {
+      "tag": "minecraft:coals"
+    }
+  ],
+  "output": [
+    {
+      "item": "exura:red_coal",
+      "count": 1
+    }
+  ],
+  "processingTime" : 80
+}

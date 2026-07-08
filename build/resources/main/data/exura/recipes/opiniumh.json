@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "exura:opiniumg"
+    },
+    "B": {
+      "item": "minecraft:elytra"
+    },
+
+    "C": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "exura:opiniumh",
+    "count": 1
+  }
+}

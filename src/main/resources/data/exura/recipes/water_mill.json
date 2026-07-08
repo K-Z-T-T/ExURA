@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "exura:polished_stone"
+    },
+    "B": {
+      "item": "exura:redstone_gear"
+    },
+    "C": {
+      "item": "exura:redstone_crystal"
+    }
+  },
+  "result": {
+    "item": "exura:water_mill",
+    "count": 1
+  }
+}

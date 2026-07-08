@@ -1,0 +1,13 @@
+{
+  "name": "Compressed Blocks",
+  "icon": "exura:compressed_cobblestone",
+  "category": "exura:block_description",
+  "read_by_default": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Compressed blocks are divided into four types: round stones, hellstones, gravel, and sand. $(br) It can be used for storing these items in large quantities"
+    }
+  ]
+}

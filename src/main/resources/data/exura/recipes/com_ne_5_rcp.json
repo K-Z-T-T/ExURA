@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "exura:quadruple_compressed_netherrack"
+    }
+  },
+  "result": {
+    "item": "exura:quintuple_compressed_netherrack",
+    "count": 1
+  }
+}

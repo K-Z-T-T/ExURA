@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "exura:block/netherstar_front",
+    "side": "exura:block/netherstar_side",
+    "top": "exura:block/netherstar_top"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "side": "exura:block/mill_dragon_side",
+    "front": "exura:block/mill_dragon_side",
+
+    "top": "exura:block/mill_dragon_top"
+  }
+}

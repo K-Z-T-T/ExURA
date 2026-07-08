@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "AAA",
+    "BCB"
+  ],
+  "key": {
+    "B": {
+      "item": "exura:polished_stone"
+    },
+    "A": {
+      "tag": "forge:gems/lapis"
+    },
+    "C": {
+      "item": "exura:redstone_crystal"
+    }
+  },
+  "result": {
+    "item": "exura:solar_panel",
+    "count": 1
+  }
+}

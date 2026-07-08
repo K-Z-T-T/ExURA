@@ -1,0 +1,13 @@
+{
+  "name": "Glass Cutter",
+  "icon": "exura:glass_cutter",
+  "category": "exura:item_description",
+  "read_by_default": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "A tool capable of fully collecting glass (though not actually able to), and also used to break an ender pearl into eight ender shards."
+    }
+  ]
+}

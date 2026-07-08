@@ -1,0 +1,13 @@
+{
+  "name": "玻璃切割刀",
+  "icon": "exura:glass_cutter",
+  "category": "exura:item_description",
+  "read_by_default": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一个可以完整采集玻璃的工具（并不能），也可以用于将末影珍珠敲成8个末影碎片。"
+    }
+  ]
+}

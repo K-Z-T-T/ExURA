@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "BB"
+  ],
+  "key": {
+    "A": {
+      "item": "exura:polished_stone"
+    },
+    "B": {
+      "item": "exura:border_stone"
+    }
+  },
+  "result": {
+    "item": "exura:truchet",
+    "count": 4
+  }
+}

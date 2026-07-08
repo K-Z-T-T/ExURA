@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "exura:block/death_generator_top",
+    "side": "exura:block/death_generator_side",
+    "top": "exura:block/death_generator_top_2"
+  }
+}

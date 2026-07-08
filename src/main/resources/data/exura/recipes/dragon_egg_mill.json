@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ADA",
+    "BCB",
+    "AEA"
+  ],
+  "key": {
+    "A": {
+      "item": "exura:polished_stone"
+    },
+    "B": {
+      "item": "minecraft:nether_star"
+    },
+    "C": {
+      "item": "exura:redstone_crystal"
+    },
+    "D": {
+      "item": "minecraft:nether_star"
+    },
+    "E": {
+      "item": "exura:eye_redstone"
+    }
+  },
+  "result": {
+    "item": "exura:dragon_egg_mill",
+    "count": 1
+  }
+}

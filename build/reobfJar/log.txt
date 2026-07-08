@@ -1,0 +1,1230 @@
+Java Launcher: C:\Program Files\Java\jdk-17\bin\java.exe
+Arguments: '--input, C:\Users\Why\IdeaProjects\ExURA\build\libs\exura-1.0-SNAPSHOT.jar, --output, C:\Users\Why\IdeaProjects\ExURA\build\reobfJar\output.jar, --names, C:\Users\Why\IdeaProjects\ExURA\build\reobfJar\mappings.tsrg, --lib, C:\Users\Why\.gradle\caches\forge_gradle\deobf_dependencies\vazkii\patchouli\Patchouli\1.20.1-84.1-FORGE_mapped_official_1.20.1\Patchouli-1.20.1-84.1-FORGE_mapped_official_1.20.1-api.jar, --lib, C:\Users\Why\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.20.1-47.4.20_mapped_official_1.20.1\forge-1.20.1-47.4.20_mapped_official_1.20.1.jar, --lib, C:\Users\Why\.gradle\caches\forge_gradle\minecraft_repo\versions\1.20.1\client-extra.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlloader\1.20.1-47.4.20\8798bdd148d476c7ec54d8156f88de5e243c2dfb\fmlloader-1.20.1-47.4.20.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarSelector\0.3.19\376cc9c8ea60720cf027c01fc033de915699801c\JarJarSelector-0.3.19.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarMetadata\0.3.19\83feaa9b770e6ac0e96ee4fc23fa89325c5fe2\JarJarMetadata-0.3.19.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\31.1-jre\60458f877d055d0c9114d9e1a2efb737b4bc282c\guava-31.1-jre.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\ca.weblite\java-objc-bridge\1.1\1227f9e0666314f9de41477e3ec277e542ed7f7b\java-objc-bridge-1.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\forgespi\7.0.1\3b4972a0cdb135853dba219be61a79b22cff1309\forgespi-7.0.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.1.5\f3da18e12c696d35a47c82cbb2cc8b5aa15e1154\mergetool-1.1.5-api.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\24.0.1\13c5c75c4206580aa4d683bffee658caae6c9f43\annotations-24.0.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.10\51e6a22c6c716beb11e244bf5b8be480f51dd6b5\securejarhandler-2.1.10.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\coremods\5.2.4\e30bab269d896613e38396274711410b3a0e4b87\coremods-5.2.4.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\cpw.mods\modlauncher\10.0.9\6d9443f56f50bb85cea383686ff9c867391458b\modlauncher-10.0.9.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.openjdk.nashorn\nashorn-core\15.4\f67f5ffaa5f5130cf6fb9b133da00c7df3b532a5\nashorn-core-15.4.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.9.1\ab35de4c537184a09339069f1a3b3aacf2289149\asm-commons-9.9.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.9.1\e51f5b0ae0b0c1960687ae970a2a3434d39d8abb\asm-util-9.9.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.9.1\1ab8d9316ef7a67240087919a708246c37ed1660\asm-analysis-9.9.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.9.1\b6b1b3366296163b4b1f540731aad0a2baa484d8\asm-tree-9.9.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.9.1\2ceea6ab43bcae1979b2a6d85fc0ca429877e5ab\asm-9.9.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\accesstransformers\8.0.4\272d240aa73f42195b2a68e2ebd8b701ecf41f63\accesstransformers-8.0.4.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.antlr\antlr4\4.9.1\e92af8ab33e428461927b484e90bb155a4f3a052\antlr4-4.9.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.antlr\antlr4-runtime\4.9.1\428664f05d2b7f7b7610204b5aa7c1763f62011a\antlr4-runtime-4.9.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.4.20\e8cc697c69f3911e76caa2f005d9486597cd7448\fmlcore-1.20.1-47.4.20.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\eventbus\6.2.33\3fae69cfa9c5095bcc25c0a8a3ed9b26c156f922\eventbus-6.2.33.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\unsafe\0.2.0\54d7a0a5e8fdb71b973025caa46f341ae5904f39\unsafe-0.2.0.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.electronwill.night-config\toml\3.6.4\51d6cefb2b55ee55ee26b16391212fb2c7dfb4f4\toml-3.6.4.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.electronwill.night-config\core\3.6.4\510f174abbf1c947494db50ef2445683bd52c230\core-3.6.4.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.8.5\4433f50c07debefaed0553bd0068f4f48d449313\maven-artifact-3.8.5.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.jodah\typetools\0.6.3\a01aaa6ddaea9ec07ec4f209487b7a46a526283a\typetools-0.6.3.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecrell\terminalconsoleappender\1.2.0\96d02cd3b384ff015a8fef4223bcb4ccf1717c95\terminalconsoleappender-1.2.0.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.jline\jline-reader\3.12.1\4382ab1382c7b6f379377ed5f665dc2f6e1218bc\jline-reader-3.12.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.spongepowered\mixin\0.8.5\9d1c0c3a304ae6697ecd477218fa61b850bf57fc\mixin-0.8.5.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarFileSystems\0.3.19\2464eb7d6b9ddb9db36a82cf8a95193e5c6fe020\JarJarFileSystems-0.3.19.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlearlydisplay\1.20.1-47.4.20\4dcdfb740aff35b40a3471708ca8a5f1e22a9504\fmlearlydisplay-1.20.1-47.4.20.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.4.20\c354b21002937b393c4f86163a98dccdf1d51e72\javafmllanguage-1.20.1-47.4.20.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.4.20\865d75f8c18329ddb31db5856701ab86609108b5\lowcodelanguage-1.20.1-47.4.20.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.4.20\af599930362212ae937e392709f49047e6abbbf\mclanguage-1.20.1-47.4.20.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.github.oshi\oshi-core\6.2.2\54f5efc19bca95d709d9a37d19ffcbba3d21c1a6\oshi-core-6.2.2.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.10\dd9b193aef96e973d5a11ab13cd17430c2e4306b\gson-2.10.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.google.guava\failureaccess\1.0.1\1dcf1de382a0bf95a3d8b0849546c88bac1292c9\failureaccess-1.0.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\71.1\9e7d3304c23f9ba5cb71915f7cce23231a57a445\icu4j-71.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\4.0.43\2ff9d747a77570a07a60d32ac77eb6162ad2a2d9\authlib-4.0.43.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.mojang\blocklist\1.0.10\5c685c5ffa94c4cd39496c7184c1d122e515ecef\blocklist-1.0.10.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.mojang\brigadier\1.1.8\5244ce82c3337bba4a196a3ce858bfaecc74404a\brigadier-1.1.8.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.mojang\datafixerupper\6.0.8\3ba4a30557a9b057760af4011f909ba619fc5125\datafixerupper-6.0.8.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.mojang\logging\1.1.1\832b8e6674a9b325a5175a3a6267dfaf34c85139\logging-1.1.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.mojang\patchy\2.2.10\da05971b07cbb379d002cf7eaec6a2048211fefc\patchy-2.2.10.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.17.9\3cad216e3a7f0c19b4b394388bc9ffc446f13b14\text2speech-1.17.9.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.5.13\e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada\httpclient-4.5.13.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.15\49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d\commons-codec-1.15.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.11.0\a2503f302b11ebde7ebc3df41daebe0e4eea3689\commons-io-2.11.0.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.2\4bfc12adfe4842bf07b657f0369c4cb522955686\commons-logging-1.2.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-handler\4.1.82.Final\644041d1fa96a5d3130a29e8978630d716d76e38\netty-handler-4.1.82.Final.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec\4.1.82.Final\b77200379acb345a9ffdece1c605e591ac3e4e0a\netty-codec-4.1.82.Final.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-classes-epoll\4.1.82.Final\e7c7dd18deac93105797f30057c912651ea76521\netty-transport-classes-epoll-4.1.82.Final.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-unix-common\4.1.82.Final\3e895b35ca1b8a0eca56cacff4c2dde5d2c6abce\netty-transport-native-unix-common-4.1.82.Final.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport\4.1.82.Final\e431a218d91acb6476ccad5f5aafde50aa3945ca\netty-transport-4.1.82.Final.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-buffer\4.1.82.Final\a544270cf1ae8b8077082f5036436a9a9971ea71\netty-buffer-4.1.82.Final.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-resolver\4.1.82.Final\38f665ae8dcd29032eea31245ba7806bed2e0fa8\netty-resolver-4.1.82.Final.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-common\4.1.82.Final\22d148e85c3f5ebdacc0ce1f5aabb1d420f73f3\netty-common-4.1.82.Final.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.5.9\bb7ea75ecdb216654237830b3a96d87ad91f8cc5\fastutil-8.5.9.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna-platform\5.12.1\97406a297c852f4a41e688a176ec675f72e8329\jna-platform-5.12.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\5.12.1\b1e93a735caea94f503e95e6fe79bf9cdc1e985d\jna-5.12.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.21\4ec95b60d4e86b5c95a0e919cb172a0af98011ef\commons-compress-1.21.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.12.0\c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e\commons-lang3-3.12.0.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.15\7f2e0c573eaa7a74bac2e89b359e1f73d92a0a1d\httpcore-4.4.15.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.19.0\3b6eeb4de4c49c0fe38a4ee27188ff5fee44d0bb\log4j-core-2.19.0.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j2-impl\2.19.0\5c04bfdd63ce9dceb2e284b81e96b6a70010ee10\log4j-slf4j2-impl-2.19.0.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.19.0\ea1b37f38c327596b216542bc636cfdc0b8036fa\log4j-api-2.19.0.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.joml\joml\1.10.5\22566d58af70ad3d72308bab63b8339906deb649\joml-1.10.5.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\cbac1b8d30cb4795149c1ef540f912671a8616d0\lwjgl-glfw-3.3.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\ed892f945cf7e79c8756796f32d00fa4ceaf573b\lwjgl-glfw-3.3.1-natives-windows.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\beda65ee503443e60aa196d58ed31f8d001dc22a\lwjgl-glfw-3.3.1-natives-windows-arm64.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\b997e3391d6ce8f05487e7335d95c606043884a1\lwjgl-glfw-3.3.1-natives-windows-x86.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\a817bcf213db49f710603677457567c37d53e103\lwjgl-jemalloc-3.3.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\948a89b76a16aa324b046ae9308891216ffce5f9\lwjgl-jemalloc-3.3.1-natives-windows.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\cae85c4edb219c88b6a0c26a87955ad98dc9519d\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\fb476c8ec110e1c137ad3ce8a7f7bfe6b11c6324\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\2623a6b8ae1dfcd880738656a9f0243d2e6840bd\lwjgl-openal-3.3.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\30a474d0e57193d7bc128849a3ab66bc9316fdb1\lwjgl-openal-3.3.1-natives-windows.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\40d65f1a7368a2aa47336f9cb69f5a190cf9975a\lwjgl-openal-3.3.1-natives-windows-arm64.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\888349f7b1be6fbae58bf8edfb9ef12def04c4e3\lwjgl-openal-3.3.1-natives-windows-x86.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\831a5533a21a5f4f81bbc51bb13e9899319b5411\lwjgl-opengl-3.3.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\c1807e9bd571402787d7e37e3029776ae2513bb8\lwjgl-opengl-3.3.1-natives-windows.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\527d78f1e9056aff3ed02ce93019c73c5e8f1721\lwjgl-opengl-3.3.1-natives-windows-arm64.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\deef3eb9b178ff2ff3ce893cc72ae741c3a17974\lwjgl-opengl-3.3.1-natives-windows-x86.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\b119297cf8ed01f247abe8685857f8e7fcf5980f\lwjgl-stb-3.3.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\86315914ac119efdb02dc9e8e978ade84f1702af\lwjgl-stb-3.3.1-natives-windows.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\fde63cdd2605c00636721a6c8b961e41d1f6b247\lwjgl-stb-3.3.1-natives-windows-arm64.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\a8d41f419eecb430b7c91ea2ce2c5c451cae2091\lwjgl-stb-3.3.1-natives-windows-x86.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\ff1914111ef2e3e0110ef2dabc8d8cdaad82347\lwjgl-tinyfd-3.3.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\a5d830475ec0958d9fdba1559efa99aef211e6ff\lwjgl-tinyfd-3.3.1-natives-windows.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\83a5e780df610829ff3a737822b4f931cffecd91\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\842eedd876fae354abc308c98a263f6bbc9e8a4d\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\ae58664f88e18a9bb2c77b063833ca7aaec484cb\lwjgl-3.3.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\36c37f16ab611b3aa11f3bcf80b1d509b4ce6b\lwjgl-3.3.1-natives-windows.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\f46cadcf95675908fd3a550d63d9d709cb68998\lwjgl-3.3.1-natives-windows-arm64.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\3b14f4beae9dd39791ec9e12190a9380cd8a3ce6\lwjgl-3.3.1-natives-windows-x86.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.machinezoo.noexception\noexception\1.7.1\b65330c98e38a1f915fa54a6e5eca496505e3f0a\noexception-1.7.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\2.0.1\f48d81adce2abf5ad3cfe463df517952749e03bc\slf4j-api-2.0.1.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.3.0\cf43b5391de623b36fe066a21127baef82c64022\plexus-utils-3.3.0.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.google.guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\b421526c5f297295adef1c886e5246c39d4ac629\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.checkerframework\checker-qual\3.12.0\d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5\checker-qual-3.12.0.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.google.errorprone\error_prone_annotations\2.11.0\c5a0ace696d3f8b1c1d8cc036d8c03cc0cbe6b69\error_prone_annotations-2.11.0.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.google.j2objc\j2objc-annotations\1.3\ba035118bc8bac37d7eff77700720999acd9986d\j2objc-annotations-1.3.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.antlr\ST4\4.3\92f2c1ad8d84abcbeead6cf7f2c53a04166293c2\ST4-4.3.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.antlr\antlr-runtime\3.5.2\cd9cd41361c155f3af0f653009dcecb08d8b4afd\antlr-runtime-3.5.2.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.abego.treelayout\org.abego.treelayout.core\1.0.3\457216e8e6578099ae63667bb1e4439235892028\org.abego.treelayout.core-1.0.3.jar, --lib, C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.glassfish\javax.json\1.0.4\3178f73569fd7a1e5ffc464e680f7a8cc784b85a\javax.json-1.0.4.jar, --disable-abstract-param'
+Classpath:
+ - C:\Users\Why\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\renamer\2.0.4\renamer-2.0.4-all.jar
+Working directory: C:\Users\Why\IdeaProjects\ExURA\build\reobfJar
+Main class: net.minecraftforge.renamer.Main
+====================================
+Forge Renamer v2.0.4
+lib: C:\Users\Why\.gradle\caches\forge_gradle\deobf_dependencies\vazkii\patchouli\Patchouli\1.20.1-84.1-FORGE_mapped_official_1.20.1\Patchouli-1.20.1-84.1-FORGE_mapped_official_1.20.1-api.jar
+lib: C:\Users\Why\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.20.1-47.4.20_mapped_official_1.20.1\forge-1.20.1-47.4.20_mapped_official_1.20.1.jar
+lib: C:\Users\Why\.gradle\caches\forge_gradle\minecraft_repo\versions\1.20.1\client-extra.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlloader\1.20.1-47.4.20\8798bdd148d476c7ec54d8156f88de5e243c2dfb\fmlloader-1.20.1-47.4.20.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarSelector\0.3.19\376cc9c8ea60720cf027c01fc033de915699801c\JarJarSelector-0.3.19.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarMetadata\0.3.19\83feaa9b770e6ac0e96ee4fc23fa89325c5fe2\JarJarMetadata-0.3.19.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\31.1-jre\60458f877d055d0c9114d9e1a2efb737b4bc282c\guava-31.1-jre.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\ca.weblite\java-objc-bridge\1.1\1227f9e0666314f9de41477e3ec277e542ed7f7b\java-objc-bridge-1.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\forgespi\7.0.1\3b4972a0cdb135853dba219be61a79b22cff1309\forgespi-7.0.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.1.5\f3da18e12c696d35a47c82cbb2cc8b5aa15e1154\mergetool-1.1.5-api.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\24.0.1\13c5c75c4206580aa4d683bffee658caae6c9f43\annotations-24.0.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.10\51e6a22c6c716beb11e244bf5b8be480f51dd6b5\securejarhandler-2.1.10.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\coremods\5.2.4\e30bab269d896613e38396274711410b3a0e4b87\coremods-5.2.4.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\cpw.mods\modlauncher\10.0.9\6d9443f56f50bb85cea383686ff9c867391458b\modlauncher-10.0.9.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.openjdk.nashorn\nashorn-core\15.4\f67f5ffaa5f5130cf6fb9b133da00c7df3b532a5\nashorn-core-15.4.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.9.1\ab35de4c537184a09339069f1a3b3aacf2289149\asm-commons-9.9.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.9.1\e51f5b0ae0b0c1960687ae970a2a3434d39d8abb\asm-util-9.9.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.9.1\1ab8d9316ef7a67240087919a708246c37ed1660\asm-analysis-9.9.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.9.1\b6b1b3366296163b4b1f540731aad0a2baa484d8\asm-tree-9.9.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.9.1\2ceea6ab43bcae1979b2a6d85fc0ca429877e5ab\asm-9.9.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\accesstransformers\8.0.4\272d240aa73f42195b2a68e2ebd8b701ecf41f63\accesstransformers-8.0.4.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.antlr\antlr4\4.9.1\e92af8ab33e428461927b484e90bb155a4f3a052\antlr4-4.9.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.antlr\antlr4-runtime\4.9.1\428664f05d2b7f7b7610204b5aa7c1763f62011a\antlr4-runtime-4.9.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.4.20\e8cc697c69f3911e76caa2f005d9486597cd7448\fmlcore-1.20.1-47.4.20.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\eventbus\6.2.33\3fae69cfa9c5095bcc25c0a8a3ed9b26c156f922\eventbus-6.2.33.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\unsafe\0.2.0\54d7a0a5e8fdb71b973025caa46f341ae5904f39\unsafe-0.2.0.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.electronwill.night-config\toml\3.6.4\51d6cefb2b55ee55ee26b16391212fb2c7dfb4f4\toml-3.6.4.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.electronwill.night-config\core\3.6.4\510f174abbf1c947494db50ef2445683bd52c230\core-3.6.4.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.8.5\4433f50c07debefaed0553bd0068f4f48d449313\maven-artifact-3.8.5.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.jodah\typetools\0.6.3\a01aaa6ddaea9ec07ec4f209487b7a46a526283a\typetools-0.6.3.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecrell\terminalconsoleappender\1.2.0\96d02cd3b384ff015a8fef4223bcb4ccf1717c95\terminalconsoleappender-1.2.0.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.jline\jline-reader\3.12.1\4382ab1382c7b6f379377ed5f665dc2f6e1218bc\jline-reader-3.12.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.spongepowered\mixin\0.8.5\9d1c0c3a304ae6697ecd477218fa61b850bf57fc\mixin-0.8.5.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarFileSystems\0.3.19\2464eb7d6b9ddb9db36a82cf8a95193e5c6fe020\JarJarFileSystems-0.3.19.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlearlydisplay\1.20.1-47.4.20\4dcdfb740aff35b40a3471708ca8a5f1e22a9504\fmlearlydisplay-1.20.1-47.4.20.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.4.20\c354b21002937b393c4f86163a98dccdf1d51e72\javafmllanguage-1.20.1-47.4.20.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.4.20\865d75f8c18329ddb31db5856701ab86609108b5\lowcodelanguage-1.20.1-47.4.20.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.4.20\af599930362212ae937e392709f49047e6abbbf\mclanguage-1.20.1-47.4.20.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.github.oshi\oshi-core\6.2.2\54f5efc19bca95d709d9a37d19ffcbba3d21c1a6\oshi-core-6.2.2.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.10\dd9b193aef96e973d5a11ab13cd17430c2e4306b\gson-2.10.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.google.guava\failureaccess\1.0.1\1dcf1de382a0bf95a3d8b0849546c88bac1292c9\failureaccess-1.0.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\71.1\9e7d3304c23f9ba5cb71915f7cce23231a57a445\icu4j-71.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\4.0.43\2ff9d747a77570a07a60d32ac77eb6162ad2a2d9\authlib-4.0.43.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.mojang\blocklist\1.0.10\5c685c5ffa94c4cd39496c7184c1d122e515ecef\blocklist-1.0.10.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.mojang\brigadier\1.1.8\5244ce82c3337bba4a196a3ce858bfaecc74404a\brigadier-1.1.8.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.mojang\datafixerupper\6.0.8\3ba4a30557a9b057760af4011f909ba619fc5125\datafixerupper-6.0.8.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.mojang\logging\1.1.1\832b8e6674a9b325a5175a3a6267dfaf34c85139\logging-1.1.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.mojang\patchy\2.2.10\da05971b07cbb379d002cf7eaec6a2048211fefc\patchy-2.2.10.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.17.9\3cad216e3a7f0c19b4b394388bc9ffc446f13b14\text2speech-1.17.9.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.5.13\e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada\httpclient-4.5.13.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.15\49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d\commons-codec-1.15.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.11.0\a2503f302b11ebde7ebc3df41daebe0e4eea3689\commons-io-2.11.0.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.2\4bfc12adfe4842bf07b657f0369c4cb522955686\commons-logging-1.2.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-handler\4.1.82.Final\644041d1fa96a5d3130a29e8978630d716d76e38\netty-handler-4.1.82.Final.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec\4.1.82.Final\b77200379acb345a9ffdece1c605e591ac3e4e0a\netty-codec-4.1.82.Final.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-classes-epoll\4.1.82.Final\e7c7dd18deac93105797f30057c912651ea76521\netty-transport-classes-epoll-4.1.82.Final.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-unix-common\4.1.82.Final\3e895b35ca1b8a0eca56cacff4c2dde5d2c6abce\netty-transport-native-unix-common-4.1.82.Final.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport\4.1.82.Final\e431a218d91acb6476ccad5f5aafde50aa3945ca\netty-transport-4.1.82.Final.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-buffer\4.1.82.Final\a544270cf1ae8b8077082f5036436a9a9971ea71\netty-buffer-4.1.82.Final.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-resolver\4.1.82.Final\38f665ae8dcd29032eea31245ba7806bed2e0fa8\netty-resolver-4.1.82.Final.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\io.netty\netty-common\4.1.82.Final\22d148e85c3f5ebdacc0ce1f5aabb1d420f73f3\netty-common-4.1.82.Final.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.5.9\bb7ea75ecdb216654237830b3a96d87ad91f8cc5\fastutil-8.5.9.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna-platform\5.12.1\97406a297c852f4a41e688a176ec675f72e8329\jna-platform-5.12.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\5.12.1\b1e93a735caea94f503e95e6fe79bf9cdc1e985d\jna-5.12.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.21\4ec95b60d4e86b5c95a0e919cb172a0af98011ef\commons-compress-1.21.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.12.0\c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e\commons-lang3-3.12.0.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.15\7f2e0c573eaa7a74bac2e89b359e1f73d92a0a1d\httpcore-4.4.15.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.19.0\3b6eeb4de4c49c0fe38a4ee27188ff5fee44d0bb\log4j-core-2.19.0.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j2-impl\2.19.0\5c04bfdd63ce9dceb2e284b81e96b6a70010ee10\log4j-slf4j2-impl-2.19.0.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.19.0\ea1b37f38c327596b216542bc636cfdc0b8036fa\log4j-api-2.19.0.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.joml\joml\1.10.5\22566d58af70ad3d72308bab63b8339906deb649\joml-1.10.5.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\cbac1b8d30cb4795149c1ef540f912671a8616d0\lwjgl-glfw-3.3.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\ed892f945cf7e79c8756796f32d00fa4ceaf573b\lwjgl-glfw-3.3.1-natives-windows.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\beda65ee503443e60aa196d58ed31f8d001dc22a\lwjgl-glfw-3.3.1-natives-windows-arm64.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\b997e3391d6ce8f05487e7335d95c606043884a1\lwjgl-glfw-3.3.1-natives-windows-x86.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\a817bcf213db49f710603677457567c37d53e103\lwjgl-jemalloc-3.3.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\948a89b76a16aa324b046ae9308891216ffce5f9\lwjgl-jemalloc-3.3.1-natives-windows.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\cae85c4edb219c88b6a0c26a87955ad98dc9519d\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\fb476c8ec110e1c137ad3ce8a7f7bfe6b11c6324\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\2623a6b8ae1dfcd880738656a9f0243d2e6840bd\lwjgl-openal-3.3.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\30a474d0e57193d7bc128849a3ab66bc9316fdb1\lwjgl-openal-3.3.1-natives-windows.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\40d65f1a7368a2aa47336f9cb69f5a190cf9975a\lwjgl-openal-3.3.1-natives-windows-arm64.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\888349f7b1be6fbae58bf8edfb9ef12def04c4e3\lwjgl-openal-3.3.1-natives-windows-x86.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\831a5533a21a5f4f81bbc51bb13e9899319b5411\lwjgl-opengl-3.3.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\c1807e9bd571402787d7e37e3029776ae2513bb8\lwjgl-opengl-3.3.1-natives-windows.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\527d78f1e9056aff3ed02ce93019c73c5e8f1721\lwjgl-opengl-3.3.1-natives-windows-arm64.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\deef3eb9b178ff2ff3ce893cc72ae741c3a17974\lwjgl-opengl-3.3.1-natives-windows-x86.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\b119297cf8ed01f247abe8685857f8e7fcf5980f\lwjgl-stb-3.3.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\86315914ac119efdb02dc9e8e978ade84f1702af\lwjgl-stb-3.3.1-natives-windows.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\fde63cdd2605c00636721a6c8b961e41d1f6b247\lwjgl-stb-3.3.1-natives-windows-arm64.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\a8d41f419eecb430b7c91ea2ce2c5c451cae2091\lwjgl-stb-3.3.1-natives-windows-x86.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\ff1914111ef2e3e0110ef2dabc8d8cdaad82347\lwjgl-tinyfd-3.3.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\a5d830475ec0958d9fdba1559efa99aef211e6ff\lwjgl-tinyfd-3.3.1-natives-windows.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\83a5e780df610829ff3a737822b4f931cffecd91\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\842eedd876fae354abc308c98a263f6bbc9e8a4d\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\ae58664f88e18a9bb2c77b063833ca7aaec484cb\lwjgl-3.3.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\36c37f16ab611b3aa11f3bcf80b1d509b4ce6b\lwjgl-3.3.1-natives-windows.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\f46cadcf95675908fd3a550d63d9d709cb68998\lwjgl-3.3.1-natives-windows-arm64.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\3b14f4beae9dd39791ec9e12190a9380cd8a3ce6\lwjgl-3.3.1-natives-windows-x86.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.machinezoo.noexception\noexception\1.7.1\b65330c98e38a1f915fa54a6e5eca496505e3f0a\noexception-1.7.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\2.0.1\f48d81adce2abf5ad3cfe463df517952749e03bc\slf4j-api-2.0.1.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.3.0\cf43b5391de623b36fe066a21127baef82c64022\plexus-utils-3.3.0.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.google.guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\b421526c5f297295adef1c886e5246c39d4ac629\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.checkerframework\checker-qual\3.12.0\d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5\checker-qual-3.12.0.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.google.errorprone\error_prone_annotations\2.11.0\c5a0ace696d3f8b1c1d8cc036d8c03cc0cbe6b69\error_prone_annotations-2.11.0.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\com.google.j2objc\j2objc-annotations\1.3\ba035118bc8bac37d7eff77700720999acd9986d\j2objc-annotations-1.3.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.antlr\ST4\4.3\92f2c1ad8d84abcbeead6cf7f2c53a04166293c2\ST4-4.3.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.antlr\antlr-runtime\3.5.2\cd9cd41361c155f3af0f653009dcecb08d8b4afd\antlr-runtime-3.5.2.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.abego.treelayout\org.abego.treelayout.core\1.0.3\457216e8e6578099ae63667bb1e4439235892028\org.abego.treelayout.core-1.0.3.jar
+lib: C:\Users\Why\.gradle\caches\modules-2\files-2.1\org.glassfish\javax.json\1.0.4\3178f73569fd7a1e5ffc464e680f7a8cc784b85a\javax.json-1.0.4.jar
+log: null
+input: C:\Users\Why\IdeaProjects\ExURA\build\libs\exura-1.0-SNAPSHOT.jar
+output: C:\Users\Why\IdeaProjects\ExURA\build\reobfJar\output.jar
+threads: 18
+Names: C:\Users\Why\IdeaProjects\ExURA\build\reobfJar\mappings.tsrg(reversed: false)
+Fix Annotations: false
+Fix Records: false
+Fix Identifiers: false
+Fix SourceFile: false
+Fix Line Numbers: false
+Strip codesigning signatures: false
+Adding Libraries to Inheritance
+Reading Input: C:\Users\Why\IdeaProjects\ExURA\build\libs\exura-1.0-SNAPSHOT.jar
+Adding input to inheritance map
+Processing entries
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/set(Lnet/minecraft/world/item/ItemStack;)V from net/minecraft/world/inventory/Slot/set(Lnet/minecraft/world/item/ItemStack;)V: set -> m_5852_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/inventory/Slot/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/remove(I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/Slot/remove(I)Lnet/minecraft/world/item/ItemStack;: remove -> m_6201_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/onQuickCraft(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemStack;)V from net/minecraft/world/inventory/Slot/onQuickCraft(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemStack;)V: onQuickCraft -> m_40234_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/getItem()Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/Slot/getItem()Lnet/minecraft/world/item/ItemStack;: getItem -> m_7993_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/getMaxStackSize(Lnet/minecraft/world/item/ItemStack;)I from net/minecraft/world/inventory/Slot/getMaxStackSize(Lnet/minecraft/world/item/ItemStack;)I: getMaxStackSize -> m_5866_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/mayPickup(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/Slot/mayPickup(Lnet/minecraft/world/entity/player/Player;)Z: mayPickup -> m_8010_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/getMaxStackSize()I from net/minecraft/world/inventory/Slot/getMaxStackSize()I: getMaxStackSize -> m_6641_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGeneratorMenu$1/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGeneratorMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/AbstractContainerMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z: stillValid -> m_6875_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGeneratorMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/AbstractContainerMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;: quickMoveStack -> m_7648_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DTBaseMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/AbstractContainerMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z: stillValid -> m_6875_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DTBaseMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/AbstractContainerMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;: quickMoveStack -> m_7648_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGeneratorBlockEntity$2/getCount()I from net/minecraft/world/inventory/ContainerData/getCount()I: getCount -> m_6499_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGeneratorBlockEntity$2/get(I)I from net/minecraft/world/inventory/ContainerData/get(I)I: get -> m_6413_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGeneratorBlockEntity$2/set(II)V from net/minecraft/world/inventory/ContainerData/set(II)V: set -> m_8050_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DTBaseBlockEntity/getUpdateTag()Lnet/minecraft/nbt/CompoundTag; from net/minecraft/world/level/block/entity/BlockEntity/getUpdateTag()Lnet/minecraft/nbt/CompoundTag;: getUpdateTag -> m_5995_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DTBaseBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DTBaseBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DragonEggMillBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DTBaseBlockEntity/getUpdatePacket()Lnet/minecraft/network/protocol/Packet; from net/minecraft/world/level/block/entity/BlockEntity/getUpdatePacket()Lnet/minecraft/network/protocol/Packet;: getUpdatePacket -> m_58483_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DragonEggMillBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DTBaseProcessingBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from io/github/kongzhongtitian/ExURA/DTBaseBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DTBaseProcessingBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from io/github/kongzhongtitian/ExURA/DTBaseBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/AutoExecutor/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/AutoExecutor/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FacingBlock/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/AutoExecutor/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FacingBlock/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGenerator/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGeneratorScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V: render -> m_88315_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/AutoExecutor/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGenerator/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGenerator/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGeneratorScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V: renderLabels -> m_280003_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGeneratorScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V: renderBg -> m_7286_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGenerator/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/BaseEntityBlock/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DragonEggMill/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/state/BlockBehaviour/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGenerator/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGeneratorBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGeneratorBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGenerator/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DragonEggMill/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGeneratorBlockEntity/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuConstructor/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: createMenu -> m_7208_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DragonEggMill/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DeathGeneratorBlockEntity/getDisplayName()Lnet/minecraft/network/chat/Component; from net/minecraft/world/MenuProvider/getDisplayName()Lnet/minecraft/network/chat/Component;: getDisplayName -> m_5446_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ProcessingData/getCount()I from net/minecraft/world/inventory/ContainerData/getCount()I: getCount -> m_6499_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ProcessingData/get(I)I from net/minecraft/world/inventory/ContainerData/get(I)I: get -> m_6413_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ProcessingData/set(II)V from net/minecraft/world/inventory/ContainerData/set(II)V: set -> m_8050_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/WaterMill/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/state/BlockBehaviour/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/WaterMill/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/WaterMill/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FireMill/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/state/BlockBehaviour/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FireMill/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FireMill/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SolarPanel/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/state/BlockBehaviour/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SolarPanel/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SolarPanel/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/LavaMill/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/state/BlockBehaviour/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/LavaMill/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/LavaMill/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGenerator/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGenerator/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/LunarPanel/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/state/BlockBehaviour/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGeneratorBlockEntity$2/getCount()I from net/minecraft/world/inventory/ContainerData/getCount()I: getCount -> m_6499_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGenerator/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGeneratorBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGeneratorBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGeneratorBlockEntity$2/get(I)I from net/minecraft/world/inventory/ContainerData/get(I)I: get -> m_6413_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGeneratorBlockEntity$2/set(II)V from net/minecraft/world/inventory/ContainerData/set(II)V: set -> m_8050_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGenerator/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/BaseEntityBlock/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/DTBaseScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V: renderBg -> m_7286_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/LunarPanel/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/LunarPanel/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGeneratorBlockEntity/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuConstructor/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: createMenu -> m_7208_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGenerator/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGeneratorBlockEntity/getDisplayName()Lnet/minecraft/network/chat/Component; from net/minecraft/world/MenuProvider/getDisplayName()Lnet/minecraft/network/chat/Component;: getDisplayName -> m_5446_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGenerator/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/WaterMillBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/WaterMillBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGeneratorMenu$1/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGeneratorMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/AbstractContainerMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z: stillValid -> m_6875_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGeneratorMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/AbstractContainerMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;: quickMoveStack -> m_7648_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGeneratorScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V: render -> m_88315_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGeneratorScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V: renderLabels -> m_280003_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/EnderGeneratorScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V: renderBg -> m_7286_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FireMillBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FireMillBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGenerator/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGenerator/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGeneratorBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGenerator/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGeneratorBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGenerator/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/BaseEntityBlock/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGeneratorBlockEntity/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuConstructor/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: createMenu -> m_7208_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGeneratorBlockEntity/getDisplayName()Lnet/minecraft/network/chat/Component; from net/minecraft/world/MenuProvider/getDisplayName()Lnet/minecraft/network/chat/Component;: getDisplayName -> m_5446_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGenerator/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGenerator/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGeneratorBlockEntity$2/getCount()I from net/minecraft/world/inventory/ContainerData/getCount()I: getCount -> m_6499_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGeneratorBlockEntity$2/get(I)I from net/minecraft/world/inventory/ContainerData/get(I)I: get -> m_6413_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGeneratorBlockEntity$2/set(II)V from net/minecraft/world/inventory/ContainerData/set(II)V: set -> m_8050_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SolarPanelBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SolarPanelBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGeneratorMenu$1/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/LunarPanelBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/LunarPanelBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGeneratorMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/AbstractContainerMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z: stillValid -> m_6875_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGeneratorMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/AbstractContainerMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;: quickMoveStack -> m_7648_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGeneratorScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V: render -> m_88315_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGeneratorScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V: renderLabels -> m_280003_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ExplosiveGeneratorScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V: renderBg -> m_7286_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/LavaMillBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/LavaMillBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ResonatorBlockEntity/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuConstructor/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: createMenu -> m_7208_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ResonatorBlockEntity/getDisplayName()Lnet/minecraft/network/chat/Component; from net/minecraft/world/MenuProvider/getDisplayName()Lnet/minecraft/network/chat/Component;: getDisplayName -> m_5446_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGeneratorMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/AbstractContainerMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z: stillValid -> m_6875_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGeneratorMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/AbstractContainerMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;: quickMoveStack -> m_7648_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransporterNodeMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/AbstractContainerMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z: stillValid -> m_6875_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransporterNodeMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/AbstractContainerMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;: quickMoveStack -> m_7648_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGeneratorMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/AbstractContainerMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z: stillValid -> m_6875_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGeneratorMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/AbstractContainerMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;: quickMoveStack -> m_7648_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGeneratorBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGeneratorBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGeneratorBlockEntity/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuConstructor/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: createMenu -> m_7208_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGeneratorBlockEntity/getDisplayName()Lnet/minecraft/network/chat/Component; from net/minecraft/world/MenuProvider/getDisplayName()Lnet/minecraft/network/chat/Component;: getDisplayName -> m_5446_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGeneratorMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/AbstractContainerMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z: stillValid -> m_6875_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGeneratorMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/AbstractContainerMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;: quickMoveStack -> m_7648_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGeneratorBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGeneratorBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGeneratorMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/AbstractContainerMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z: stillValid -> m_6875_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGeneratorBlockEntity/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuConstructor/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: createMenu -> m_7208_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGeneratorBlockEntity/getDisplayName()Lnet/minecraft/network/chat/Component; from net/minecraft/world/MenuProvider/getDisplayName()Lnet/minecraft/network/chat/Component;: getDisplayName -> m_5446_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGeneratorMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/AbstractContainerMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;: quickMoveStack -> m_7648_
+Conflicting propagated mapping for net/minecraft/world/entity/LivingEntity/lambda$addAdditionalSaveData$3(Lnet/minecraft/nbt/CompoundTag;Lnet/minecraft/nbt/Tag;)V from net/minecraft/world/entity/player/Player/lambda$addAdditionalSaveData$3(Lnet/minecraft/nbt/CompoundTag;Lnet/minecraft/nbt/Tag;)V: lambda$addAdditionalSaveData$3 -> m_219754_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGeneratorBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGeneratorBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGeneratorMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/AbstractContainerMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z: stillValid -> m_6875_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGeneratorMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/AbstractContainerMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;: quickMoveStack -> m_7648_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGeneratorBlockEntity/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuConstructor/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: createMenu -> m_7208_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGeneratorBlockEntity/getDisplayName()Lnet/minecraft/network/chat/Component; from net/minecraft/world/MenuProvider/getDisplayName()Lnet/minecraft/network/chat/Component;: getDisplayName -> m_5446_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGeneratorMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/AbstractContainerMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z: stillValid -> m_6875_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGeneratorMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/AbstractContainerMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;: quickMoveStack -> m_7648_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGeneratorBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGeneratorBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGeneratorMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/AbstractContainerMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z: stillValid -> m_6875_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGeneratorMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/AbstractContainerMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;: quickMoveStack -> m_7648_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGeneratorBlockEntity/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuConstructor/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: createMenu -> m_7208_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGeneratorBlockEntity/getDisplayName()Lnet/minecraft/network/chat/Component; from net/minecraft/world/MenuProvider/getDisplayName()Lnet/minecraft/network/chat/Component;: getDisplayName -> m_5446_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/InputOutputRecipe/canCraftInDimensions(II)Z from net/minecraft/world/item/crafting/Recipe/canCraftInDimensions(II)Z: canCraftInDimensions -> m_8004_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/InputOutputRecipe/getResultItem(Lnet/minecraft/core/RegistryAccess;)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/item/crafting/Recipe/getResultItem(Lnet/minecraft/core/RegistryAccess;)Lnet/minecraft/world/item/ItemStack;: getResultItem -> m_8043_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/InputOutputRecipe/getIngredients()Lnet/minecraft/core/NonNullList; from net/minecraft/world/item/crafting/Recipe/getIngredients()Lnet/minecraft/core/NonNullList;: getIngredients -> m_7527_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/InputOutputRecipe/matches(Lnet/minecraft/world/Container;Lnet/minecraft/world/level/Level;)Z from net/minecraft/world/item/crafting/Recipe/matches(Lnet/minecraft/world/Container;Lnet/minecraft/world/level/Level;)Z: matches -> m_5818_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/InputOutputRecipe/getId()Lnet/minecraft/resources/ResourceLocation; from net/minecraft/world/item/crafting/Recipe/getId()Lnet/minecraft/resources/ResourceLocation;: getId -> m_6423_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/InputOutputRecipe/assemble(Lnet/minecraft/world/Container;Lnet/minecraft/core/RegistryAccess;)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/item/crafting/Recipe/assemble(Lnet/minecraft/world/Container;Lnet/minecraft/core/RegistryAccess;)Lnet/minecraft/world/item/ItemStack;: assemble -> m_5874_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ResonatorRecipe/getType()Lnet/minecraft/world/item/crafting/RecipeType; from net/minecraft/world/item/crafting/Recipe/getType()Lnet/minecraft/world/item/crafting/RecipeType;: getType -> m_6671_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ResonatorRecipe/getSerializer()Lnet/minecraft/world/item/crafting/RecipeSerializer; from net/minecraft/world/item/crafting/Recipe/getSerializer()Lnet/minecraft/world/item/crafting/RecipeSerializer;: getSerializer -> m_7707_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGeneratorBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for net/minecraftforge/network/IContainerFactory/create(ILnet/minecraft/world/entity/player/Inventory;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuType$MenuSupplier/create(ILnet/minecraft/world/entity/player/Inventory;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: create -> m_39994_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGeneratorBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGeneratorBlockEntity/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuConstructor/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: createMenu -> m_7208_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGeneratorBlockEntity/getDisplayName()Lnet/minecraft/network/chat/Component; from net/minecraft/world/MenuProvider/getDisplayName()Lnet/minecraft/network/chat/Component;: getDisplayName -> m_5446_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGenerator/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGenerator/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGenerator/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGenerator/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/BaseEntityBlock/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGenerator/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGeneratorBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGeneratorBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGenerator/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGeneratorBlockEntity/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuConstructor/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: createMenu -> m_7208_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGeneratorBlockEntity/getDisplayName()Lnet/minecraft/network/chat/Component; from net/minecraft/world/MenuProvider/getDisplayName()Lnet/minecraft/network/chat/Component;: getDisplayName -> m_5446_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGenerator/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGenerator/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransporterNodeBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGenerator/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransporterNodeBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGenerator/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/BaseEntityBlock/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransporterNodeBlockEntity/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuConstructor/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: createMenu -> m_7208_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransporterNodeBlockEntity/getDisplayName()Lnet/minecraft/network/chat/Component; from net/minecraft/world/MenuProvider/getDisplayName()Lnet/minecraft/network/chat/Component;: getDisplayName -> m_5446_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGenerator/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGenerator/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGenerator/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransportPipeBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransportPipeBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGenerator/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGenerator/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGenerator/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/BaseEntityBlock/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGenerator/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGenerator/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGeneratorBlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/load(Lnet/minecraft/nbt/CompoundTag;)V: load -> m_142466_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGeneratorBlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/level/block/entity/BlockEntity/saveAdditional(Lnet/minecraft/nbt/CompoundTag;)V: saveAdditional -> m_183515_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGenerator/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGeneratorBlockEntity/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuConstructor/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: createMenu -> m_7208_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGeneratorBlockEntity/getDisplayName()Lnet/minecraft/network/chat/Component; from net/minecraft/world/MenuProvider/getDisplayName()Lnet/minecraft/network/chat/Component;: getDisplayName -> m_5446_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGenerator/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGenerator/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGenerator/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/BaseEntityBlock/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/isInvulnerableTo(Lnet/minecraft/world/damagesource/DamageSource;)Z from net/minecraft/server/level/ServerPlayer/isInvulnerableTo(Lnet/minecraft/world/damagesource/DamageSource;)Z: isInvulnerableTo -> m_6673_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/canHarmPlayer(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/server/level/ServerPlayer/canHarmPlayer(Lnet/minecraft/world/entity/player/Player;)Z: canHarmPlayer -> m_7099_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/updateOptions(Lnet/minecraft/network/protocol/game/ServerboundClientInformationPacket;)V from net/minecraft/server/level/ServerPlayer/updateOptions(Lnet/minecraft/network/protocol/game/ServerboundClientInformationPacket;)V: updateOptions -> m_9156_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/displayClientMessage(Lnet/minecraft/network/chat/Component;Z)V from net/minecraft/server/level/ServerPlayer/displayClientMessage(Lnet/minecraft/network/chat/Component;Z)V: displayClientMessage -> m_5661_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/die(Lnet/minecraft/world/damagesource/DamageSource;)V from net/minecraft/server/level/ServerPlayer/die(Lnet/minecraft/world/damagesource/DamageSource;)V: die -> m_6667_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/tick()V from net/minecraft/server/level/ServerPlayer/tick()V: tick -> m_8119_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGenerator/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGenerator/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/getServer()Lnet/minecraft/server/MinecraftServer; from net/minecraft/world/entity/Entity/getServer()Lnet/minecraft/server/MinecraftServer;: getServer -> m_20194_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/awardStat(Lnet/minecraft/stats/Stat;I)V from net/minecraft/server/level/ServerPlayer/awardStat(Lnet/minecraft/stats/Stat;I)V: awardStat -> m_6278_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/InputOutputRecipeSerializer/fromJson(Lnet/minecraft/resources/ResourceLocation;Lcom/google/gson/JsonObject;)Lnet/minecraft/world/item/crafting/Recipe; from net/minecraft/world/item/crafting/RecipeSerializer/fromJson(Lnet/minecraft/resources/ResourceLocation;Lcom/google/gson/JsonObject;)Lnet/minecraft/world/item/crafting/Recipe;: fromJson -> m_6729_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/InputOutputRecipeSerializer/fromNetwork(Lnet/minecraft/resources/ResourceLocation;Lnet/minecraft/network/FriendlyByteBuf;)Lnet/minecraft/world/item/crafting/Recipe; from net/minecraft/world/item/crafting/RecipeSerializer/fromNetwork(Lnet/minecraft/resources/ResourceLocation;Lnet/minecraft/network/FriendlyByteBuf;)Lnet/minecraft/world/item/crafting/Recipe;: fromNetwork -> m_8005_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/InputOutputRecipeSerializer/toNetwork(Lnet/minecraft/network/FriendlyByteBuf;Lnet/minecraft/world/item/crafting/Recipe;)V from net/minecraft/world/item/crafting/RecipeSerializer/toNetwork(Lnet/minecraft/network/FriendlyByteBuf;Lnet/minecraft/world/item/crafting/Recipe;)V: toNetwork -> m_6178_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGenerator/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGenerator/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGenerator/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGenerator/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/BaseEntityBlock/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGenerator/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGenerator/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGenerator/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGenerator/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGenerator/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGenerator/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/BaseEntityBlock/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGeneratorBlockEntity$2/getCount()I from net/minecraft/world/inventory/ContainerData/getCount()I: getCount -> m_6499_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGenerator/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGeneratorBlockEntity$2/get(I)I from net/minecraft/world/inventory/ContainerData/get(I)I: get -> m_6413_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGeneratorBlockEntity$2/set(II)V from net/minecraft/world/inventory/ContainerData/set(II)V: set -> m_8050_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGenerator/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGenerator/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGenerator/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGenerator/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGenerator/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/BaseEntityBlock/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGenerator/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGenerator/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGeneratorMenu$1/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGeneratorScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V: render -> m_88315_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGeneratorScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V: renderLabels -> m_280003_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FrostyGeneratorScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V: renderBg -> m_7286_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/Resonator/onRemove(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;Z)V from net/minecraft/world/level/block/state/BlockBehaviour/onRemove(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;Z)V: onRemove -> m_6810_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/Resonator/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/Resonator/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/Resonator/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGeneratorBlockEntity$2/getCount()I from net/minecraft/world/inventory/ContainerData/getCount()I: getCount -> m_6499_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGeneratorBlockEntity$2/get(I)I from net/minecraft/world/inventory/ContainerData/get(I)I: get -> m_6413_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGeneratorBlockEntity$2/set(II)V from net/minecraft/world/inventory/ContainerData/set(II)V: set -> m_8050_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/VoidHopper/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape; from net/minecraft/world/level/block/state/BlockBehaviour/getRenderShape(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;: getRenderShape -> m_7514_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/VoidHopper/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/VoidHopper/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGeneratorMenu$1/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGeneratorScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V: render -> m_88315_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGeneratorScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V: renderLabels -> m_280003_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/FurnaceGeneratorScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V: renderBg -> m_7286_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGeneratorBlockEntity$2/getCount()I from net/minecraft/world/inventory/ContainerData/getCount()I: getCount -> m_6499_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGeneratorBlockEntity$2/get(I)I from net/minecraft/world/inventory/ContainerData/get(I)I: get -> m_6413_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGeneratorBlockEntity$2/set(II)V from net/minecraft/world/inventory/ContainerData/set(II)V: set -> m_8050_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGeneratorMenu$1/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGeneratorScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V: render -> m_88315_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGeneratorScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V: renderLabels -> m_280003_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/HalitosisGeneratorScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V: renderBg -> m_7286_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGeneratorBlockEntity$2/getCount()I from net/minecraft/world/inventory/ContainerData/getCount()I: getCount -> m_6499_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGeneratorBlockEntity$2/get(I)I from net/minecraft/world/inventory/ContainerData/get(I)I: get -> m_6413_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGeneratorBlockEntity$2/set(II)V from net/minecraft/world/inventory/ContainerData/set(II)V: set -> m_8050_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGeneratorMenu$1/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGeneratorScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V: render -> m_88315_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGeneratorScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V: renderLabels -> m_280003_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/NetherstarGeneratorScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V: renderBg -> m_7286_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGeneratorBlockEntity$2/getCount()I from net/minecraft/world/inventory/ContainerData/getCount()I: getCount -> m_6499_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGeneratorBlockEntity$2/get(I)I from net/minecraft/world/inventory/ContainerData/get(I)I: get -> m_6413_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGeneratorBlockEntity$2/set(II)V from net/minecraft/world/inventory/ContainerData/set(II)V: set -> m_8050_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGeneratorMenu$1/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGeneratorScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V: render -> m_88315_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGeneratorScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V: renderLabels -> m_280003_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/OverclockedGeneratorScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V: renderBg -> m_7286_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGeneratorBlockEntity$2/getCount()I from net/minecraft/world/inventory/ContainerData/getCount()I: getCount -> m_6499_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGeneratorBlockEntity$2/get(I)I from net/minecraft/world/inventory/ContainerData/get(I)I: get -> m_6413_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGeneratorBlockEntity$2/set(II)V from net/minecraft/world/inventory/ContainerData/set(II)V: set -> m_8050_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGeneratorMenu$1/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGeneratorScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V: render -> m_88315_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGeneratorScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V: renderLabels -> m_280003_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/PinkGeneratorScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V: renderBg -> m_7286_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ResonatorMenu$1/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ResonatorScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V: render -> m_88315_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/ResonatorScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V: renderBg -> m_7286_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransporterNode/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransporterNode/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker; from net/minecraft/world/level/block/EntityBlock/getTicker(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/entity/BlockEntityType;)Lnet/minecraft/world/level/block/entity/BlockEntityTicker;: getTicker -> m_142354_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransporterNode/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/EntityBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransportPipe/getShape(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/phys/shapes/CollisionContext;)Lnet/minecraft/world/phys/shapes/VoxelShape; from net/minecraft/world/level/block/state/BlockBehaviour/getShape(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/phys/shapes/CollisionContext;)Lnet/minecraft/world/phys/shapes/VoxelShape;: getShape -> m_5940_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGeneratorBlockEntity$2/getCount()I from net/minecraft/world/inventory/ContainerData/getCount()I: getCount -> m_6499_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGeneratorBlockEntity$2/get(I)I from net/minecraft/world/inventory/ContainerData/get(I)I: get -> m_6413_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGeneratorBlockEntity$2/set(II)V from net/minecraft/world/inventory/ContainerData/set(II)V: set -> m_8050_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGeneratorMenu$1/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGeneratorScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V: render -> m_88315_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGeneratorScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V: renderLabels -> m_280003_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/SurvivalGeneratorScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V: renderBg -> m_7286_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransporterNodeMenu$LockedSlot/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransporterNodeMenu$LockedSlot/mayPickup(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraftforge/items/SlotItemHandler/mayPickup(Lnet/minecraft/world/entity/player/Player;)Z: mayPickup -> m_8010_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransporterNodeScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V: render -> m_88315_
+Conflicting propagated mapping for io/github/kongzhongtitian/ExURA/TransporterNodeScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V: renderBg -> m_7286_
+Adding extras
+Sorting
+Writing Output: C:\Users\Why\IdeaProjects\ExURA\build\reobfJar\output.jar
+  META-INF/
+  META-INF/MANIFEST.MF
+  META-INF/jarjar/
+  META-INF/jarjar/RecipesAPI_Forge_1.20-1.20.1_1.0.1.jar
+  META-INF/jarjar/metadata.json
+  META-INF/mods.toml
+  assets/
+  assets/emi/
+  assets/emi/lang/
+  assets/emi/lang/en_us.json
+  assets/emi/lang/zh_cn.json
+  assets/emi/recipe/
+  assets/emi/recipe/additions/
+  assets/emi/recipe/additions/info/
+  assets/emi/recipe/additions/info/dye_powder_lunar.json
+  assets/emi/recipe/additions/info/red_coal.json
+  assets/emi/recipe/additions/info/stoneburnt.json
+  assets/emi/recipe/additions/info/upgrade_base.json
+  assets/exura/
+  assets/exura/blockstates/
+  assets/exura/blockstates/auto_executor.json
+  assets/exura/blockstates/bedrock_bricks.json
+  assets/exura/blockstates/bedrock_cobblestone.json
+  assets/exura/blockstates/bedrock_slabs.json
+  assets/exura/blockstates/border_stone.json
+  assets/exura/blockstates/compressed_cobblestone.json
+  assets/exura/blockstates/compressed_dirt.json
+  assets/exura/blockstates/compressed_gravel.json
+  assets/exura/blockstates/compressed_netherrack.json
+  assets/exura/blockstates/compressed_sand.json
+  assets/exura/blockstates/crossed_stone.json
+  assets/exura/blockstates/death_generator.json
+  assets/exura/blockstates/double_compressed_cobblestone.json
+  assets/exura/blockstates/double_compressed_dirt.json
+  assets/exura/blockstates/double_compressed_gravel.json
+  assets/exura/blockstates/double_compressed_netherrack.json
+  assets/exura/blockstates/double_compressed_sand.json
+  assets/exura/blockstates/dragon_egg_mill.json
+  assets/exura/blockstates/ender_generator.json
+  assets/exura/blockstates/explosive_generator.json
+  assets/exura/blockstates/fire_mill.json
+  assets/exura/blockstates/frosty_generator.json
+  assets/exura/blockstates/furnace_generator.json
+  assets/exura/blockstates/halitosis_generator.json
+  assets/exura/blockstates/lava_mill.json
+  assets/exura/blockstates/machine_block.json
+  assets/exura/blockstates/magical_wood.json
+  assets/exura/blockstates/netherstar_generator.json
+  assets/exura/blockstates/octuple_compressed_cobblestone.json
+  assets/exura/blockstates/overclocked_generator.json
+  assets/exura/blockstates/pink_generator.json
+  assets/exura/blockstates/polished_stone.json
+  assets/exura/blockstates/quadruple_compressed_cobblestone.json
+  assets/exura/blockstates/quadruple_compressed_dirt.json
+  assets/exura/blockstates/quadruple_compressed_netherrack.json
+  assets/exura/blockstates/quintuple_compressed_cobblestone.json
+  assets/exura/blockstates/quintuple_compressed_netherrack.json
+  assets/exura/blockstates/rainbow_generator.json
+  assets/exura/blockstates/resonator.json
+  assets/exura/blockstates/septuple_compressed_cobblestone.json
+  assets/exura/blockstates/sextuple_compressed_cobblestone.json
+  assets/exura/blockstates/sextuple_compressed_netherrack.json
+  assets/exura/blockstates/stoneburnt.json
+  assets/exura/blockstates/survival_generator.json
+  assets/exura/blockstates/triple_compressed_cobblestone.json
+  assets/exura/blockstates/triple_compressed_dirt.json
+  assets/exura/blockstates/triple_compressed_netherrack.json
+  assets/exura/blockstates/truchet.json
+  assets/exura/blockstates/void_hopper.json
+  assets/exura/blockstates/water_mill.json
+  assets/exura/lang/
+  assets/exura/lang/en_us.json
+  assets/exura/lang/zh_cn.json
+  assets/exura/models/
+  assets/exura/models/block/
+  assets/exura/models/block/auto_executor.json
+  assets/exura/models/block/bedrock_bricks.json
+  assets/exura/models/block/bedrock_cobblestone.json
+  assets/exura/models/block/bedrock_slabs.json
+  assets/exura/models/block/border_stone.json
+  assets/exura/models/block/compressed_cobblestone.json
+  assets/exura/models/block/compressed_dirt.json
+  assets/exura/models/block/compressed_gravel.json
+  assets/exura/models/block/compressed_netherrack.json
+  assets/exura/models/block/compressed_sand.json
+  assets/exura/models/block/crossed_stone.json
+  assets/exura/models/block/death_generator.json
+  assets/exura/models/block/double_compressed_cobblestone.json
+  assets/exura/models/block/double_compressed_dirt.json
+  assets/exura/models/block/double_compressed_gravel.json
+  assets/exura/models/block/double_compressed_netherrack.json
+  assets/exura/models/block/double_compressed_sand.json
+  assets/exura/models/block/dragon_egg_mill.json
+  assets/exura/models/block/ender_generator.json
+  assets/exura/models/block/explosive_generator.json
+  assets/exura/models/block/fire_mill.json
+  assets/exura/models/block/frosty_generator.json
+  assets/exura/models/block/furnace_generator.json
+  assets/exura/models/block/halitosis_generator.json
+  assets/exura/models/block/lava_mill.json
+  assets/exura/models/block/machine_block.json
+  assets/exura/models/block/magical_wood.json
+  assets/exura/models/block/netherstar_generator.json
+  assets/exura/models/block/octuple_compressed_cobblestone.json
+  assets/exura/models/block/overclocked_generator.json
+  assets/exura/models/block/pink_generator.json
+  assets/exura/models/block/polished_stone.json
+  assets/exura/models/block/quadruple_compressed_cobblestone.json
+  assets/exura/models/block/quadruple_compressed_dirt.json
+  assets/exura/models/block/quadruple_compressed_netherrack.json
+  assets/exura/models/block/quintuple_compressed_cobblestone.json
+  assets/exura/models/block/quintuple_compressed_netherrack.json
+  assets/exura/models/block/rainbow_generator.json
+  assets/exura/models/block/resonator.json
+  assets/exura/models/block/septuple_compressed_cobblestone.json
+  assets/exura/models/block/sextuple_compressed_cobblestone.json
+  assets/exura/models/block/sextuple_compressed_netherrack.json
+  assets/exura/models/block/stoneburnt.json
+  assets/exura/models/block/survival_generator.json
+  assets/exura/models/block/triple_compressed_cobblestone.json
+  assets/exura/models/block/triple_compressed_dirt.json
+  assets/exura/models/block/triple_compressed_netherrack.json
+  assets/exura/models/block/truchet.json
+  assets/exura/models/block/void_hopper.json
+  assets/exura/models/block/water_mill.json
+  assets/exura/models/item/
+  assets/exura/models/item/auto_executor.json
+  assets/exura/models/item/bedrock_bricks.json
+  assets/exura/models/item/bedrock_cobblestone.json
+  assets/exura/models/item/bedrock_slabs.json
+  assets/exura/models/item/border_stone.json
+  assets/exura/models/item/compressed_cobblestone.json
+  assets/exura/models/item/compressed_dirt.json
+  assets/exura/models/item/compressed_gravel.json
+  assets/exura/models/item/compressed_netherrack.json
+  assets/exura/models/item/compressed_sand.json
+  assets/exura/models/item/crossed_stone.json
+  assets/exura/models/item/death_generator.json
+  assets/exura/models/item/demon_ingot.json
+  assets/exura/models/item/double_compressed_cobblestone.json
+  assets/exura/models/item/double_compressed_dirt.json
+  assets/exura/models/item/double_compressed_gravel.json
+  assets/exura/models/item/double_compressed_netherrack.json
+  assets/exura/models/item/double_compressed_sand.json
+  assets/exura/models/item/dragon_egg_mill.json
+  assets/exura/models/item/dye_powder_lunar.json
+  assets/exura/models/item/enchanted_ingot.json
+  assets/exura/models/item/ender_generator.json
+  assets/exura/models/item/ender_shard.json
+  assets/exura/models/item/evil_drop.json
+  assets/exura/models/item/evil_infused_ingot.json
+  assets/exura/models/item/explosive_generator.json
+  assets/exura/models/item/eye_redstone.json
+  assets/exura/models/item/fire_mill.json
+  assets/exura/models/item/frosty_generator.json
+  assets/exura/models/item/furnace_generator.json
+  assets/exura/models/item/glass_cutter.json
+  assets/exura/models/item/halitosis_generator.json
+  assets/exura/models/item/lava_mill.json
+  assets/exura/models/item/machine_block.json
+  assets/exura/models/item/magical_apple.json
+  assets/exura/models/item/magical_wood.json
+  assets/exura/models/item/moon_stone.json
+  assets/exura/models/item/netherstar_generator.json
+  assets/exura/models/item/octuple_compressed_cobblestone.json
+  assets/exura/models/item/opiniuma.json
+  assets/exura/models/item/opiniumb.json
+  assets/exura/models/item/opiniumc.json
+  assets/exura/models/item/opiniumd.json
+  assets/exura/models/item/opiniume.json
+  assets/exura/models/item/opiniumf.json
+  assets/exura/models/item/opiniumg.json
+  assets/exura/models/item/opiniumh.json
+  assets/exura/models/item/opiniumi.json
+  assets/exura/models/item/overclocked_generator.json
+  assets/exura/models/item/pink_generator.json
+  assets/exura/models/item/polished_stone.json
+  assets/exura/models/item/quadruple_compressed_cobblestone.json
+  assets/exura/models/item/quadruple_compressed_dirt.json
+  assets/exura/models/item/quadruple_compressed_netherrack.json
+  assets/exura/models/item/quintuple_compressed_cobblestone.json
+  assets/exura/models/item/quintuple_compressed_netherrack.json
+  assets/exura/models/item/rainbow_generator.json
+  assets/exura/models/item/red_coal.json
+  assets/exura/models/item/redstone_crystal.json
+  assets/exura/models/item/redstone_gear.json
+  assets/exura/models/item/resonator.json
+  assets/exura/models/item/septuple_compressed_cobblestone.json
+  assets/exura/models/item/sextuple_compressed_cobblestone.json
+  assets/exura/models/item/sextuple_compressed_netherrack.json
+  assets/exura/models/item/stoneburnt.json
+  assets/exura/models/item/survival_generator.json
+  assets/exura/models/item/triple_compressed_cobblestone.json
+  assets/exura/models/item/triple_compressed_dirt.json
+  assets/exura/models/item/triple_compressed_netherrack.json
+  assets/exura/models/item/truchet.json
+  assets/exura/models/item/unstable_ingot_outline.json
+  assets/exura/models/item/unstable_nugget_outline.json
+  assets/exura/models/item/upgrade_base.json
+  assets/exura/models/item/upgrade_speed.json
+  assets/exura/models/item/upgrade_speed_enchanted.json
+  assets/exura/models/item/upgrade_speed_super.json
+  assets/exura/models/item/void_hopper.json
+  assets/exura/models/item/water_mill.json
+  assets/exura/patchouli_books/
+  assets/exura/patchouli_books/exura_book/
+  assets/exura/patchouli_books/exura_book/en_us/
+  assets/exura/patchouli_books/exura_book/en_us/categories/
+  assets/exura/patchouli_books/exura_book/en_us/categories/block_description.json
+  assets/exura/patchouli_books/exura_book/en_us/categories/item_description.json
+  assets/exura/patchouli_books/exura_book/en_us/entries/
+  assets/exura/patchouli_books/exura_book/en_us/entries/compressed_blocks.json
+  assets/exura/patchouli_books/exura_book/en_us/entries/glass_cutter.json
+  assets/exura/patchouli_books/exura_book/en_us/entries/resonator.json
+  assets/exura/patchouli_books/exura_book/zh_cn/
+  assets/exura/patchouli_books/exura_book/zh_cn/categories/
+  assets/exura/patchouli_books/exura_book/zh_cn/categories/block_description.json
+  assets/exura/patchouli_books/exura_book/zh_cn/categories/item_description.json
+  assets/exura/patchouli_books/exura_book/zh_cn/entries/
+  assets/exura/patchouli_books/exura_book/zh_cn/entries/compressed_blocks.json
+  assets/exura/patchouli_books/exura_book/zh_cn/entries/glass_cutter.json
+  assets/exura/patchouli_books/exura_book/zh_cn/entries/resonator.json
+  assets/exura/textures/
+  assets/exura/textures/block/
+  assets/exura/textures/block/aearoundk.png
+  assets/exura/textures/block/aeback.png
+  assets/exura/textures/block/amazing.png
+  assets/exura/textures/block/aoto_executor.png
+  assets/exura/textures/block/base.png
+  assets/exura/textures/block/bedrock.png
+  assets/exura/textures/block/bedrock_bricks.png
+  assets/exura/textures/block/bedrock_cobblestone.png
+  assets/exura/textures/block/bedrock_slabs.png
+  assets/exura/textures/block/block_of_demon_metal.png
+  assets/exura/textures/block/block_of_enchanted_metal.png
+  assets/exura/textures/block/block_of_evel_infused_iron.png
+  assets/exura/textures/block/border_stone.png
+  assets/exura/textures/block/caelestis_white.png
+  assets/exura/textures/block/caelestius_black.png
+  assets/exura/textures/block/caelestius_brown.png
+  assets/exura/textures/block/caelestius_cyan.png
+  assets/exura/textures/block/caelestius_darkblue.png
+  assets/exura/textures/block/caelestius_gray.png
+  assets/exura/textures/block/caelestius_green.png
+  assets/exura/textures/block/caelestius_lightblue.png
+  assets/exura/textures/block/caelestius_lightgray.png
+  assets/exura/textures/block/caelestius_lightgreen.png
+  assets/exura/textures/block/caelestius_orange.png
+  assets/exura/textures/block/caelestius_pink.png
+  assets/exura/textures/block/caelestius_purple.png
+  assets/exura/textures/block/caelestius_red.png
+  assets/exura/textures/block/caelestius_skin.png
+  assets/exura/textures/block/caelestius_yellow.png
+  assets/exura/textures/block/carved_eminence_stone.png
+  assets/exura/textures/block/chandelier.png
+  assets/exura/textures/block/chest_creative.png
+  assets/exura/textures/block/chiseled_quartz_block.png
+  assets/exura/textures/block/chiseled_stone_bricks.png
+  assets/exura/textures/block/chiseled_stone_bricks_alternate.png
+  assets/exura/textures/block/chunker.png
+  assets/exura/textures/block/chunker_2.png
+  assets/exura/textures/block/compressed_cobblestone.png
+  assets/exura/textures/block/compressed_dirt.png
+  assets/exura/textures/block/compressed_gravel.png
+  assets/exura/textures/block/compressed_netherrack.png
+  assets/exura/textures/block/compressed_sand.png
+  assets/exura/textures/block/creative_base.png
+  assets/exura/textures/block/creative_block.png
+  assets/exura/textures/block/creative_mill_side.png
+  assets/exura/textures/block/creative_mill_top.png
+  assets/exura/textures/block/creativeenergysource.png
+  assets/exura/textures/block/creativeharvest.png
+  assets/exura/textures/block/creeper_glass.png
+  assets/exura/textures/block/culinary_top.png
+  assets/exura/textures/block/culnary_front.png
+  assets/exura/textures/block/culnary_side.png
+  assets/exura/textures/block/dark_corners.png
+  assets/exura/textures/block/dark_ethereal_glass.png
+  assets/exura/textures/block/dark_glass.png
+  assets/exura/textures/block/death_generator_side.png
+  assets/exura/textures/block/death_generator_top.png
+  assets/exura/textures/block/death_generator_top_2.png
+  assets/exura/textures/block/deep_dark_portal.png
+  assets/exura/textures/block/diamond_block.png
+  assets/exura/textures/block/diamondcore.png
+  assets/exura/textures/block/dirt.png
+  assets/exura/textures/block/disenchantment_front.png
+  assets/exura/textures/block/disenchantment_side.png
+  assets/exura/textures/block/disenchantment_top.png
+  assets/exura/textures/block/disenchantment_top2.png
+  assets/exura/textures/block/double_compressed_cobblestone.png
+  assets/exura/textures/block/double_compressed_dirt.png
+  assets/exura/textures/block/double_compressed_gravel.png
+  assets/exura/textures/block/double_compressed_sand.png
+  assets/exura/textures/block/dragon_mill.png
+  assets/exura/textures/block/dragon_mill_top.png
+  assets/exura/textures/block/drum_bedrock.png
+  assets/exura/textures/block/drum_creative.png
+  assets/exura/textures/block/drum_gold.png
+  assets/exura/textures/block/drum_iron.png
+  assets/exura/textures/block/drum_stone.png
+  assets/exura/textures/block/edged_glass.png
+  assets/exura/textures/block/edged_stone_grass.png
+  assets/exura/textures/block/enchanter_front.png
+  assets/exura/textures/block/enchanter_side.png
+  assets/exura/textures/block/end_stone.png
+  assets/exura/textures/block/endcore.png
+  assets/exura/textures/block/ender_generator_front.png
+  assets/exura/textures/block/ender_generator_side.png
+  assets/exura/textures/block/ender_generator_top.png
+  assets/exura/textures/block/ender_lilly_stage_0.png
+  assets/exura/textures/block/ender_lilly_stage_1.png
+  assets/exura/textures/block/ender_lilly_stage_2.png
+  assets/exura/textures/block/ender_lilly_stage_3.png
+  assets/exura/textures/block/ender_lilly_stage_4.png
+  assets/exura/textures/block/ender_lilly_stage_5.png
+  assets/exura/textures/block/ender_lilly_stage_6.png
+  assets/exura/textures/block/ender_lilly_stage_7.png
+  assets/exura/textures/block/enderquarry.png
+  assets/exura/textures/block/enderquarry_active.png
+  assets/exura/textures/block/enderquarry_bottom.png
+  assets/exura/textures/block/enderquarry_top.png
+  assets/exura/textures/block/enderquarry_top_active.png
+  assets/exura/textures/block/enderthermicpump.png
+  assets/exura/textures/block/enderthermicpump_side.png
+  assets/exura/textures/block/enderthermicpump_top.png
+  assets/exura/textures/block/endmarker.png
+  assets/exura/textures/block/ethereal_glass.png
+  assets/exura/textures/block/fe_transmitter.png
+  assets/exura/textures/block/frosty_generator_front.png
+  assets/exura/textures/block/frosty_generator_top.png
+  assets/exura/textures/block/frosty_side.png
+  assets/exura/textures/block/furnace_front.png
+  assets/exura/textures/block/furnace_generator.png
+  assets/exura/textures/block/furnace_generator_front.png
+  assets/exura/textures/block/furnace_generator_top.png
+  assets/exura/textures/block/glass.png
+  assets/exura/textures/block/glass_bricks.png
+  assets/exura/textures/block/globe.png
+  assets/exura/textures/block/glowstone_glass.png
+  assets/exura/textures/block/gold_block.png
+  assets/exura/textures/block/gold_chest.png
+  assets/exura/textures/block/golden_edged_glass.png
+  assets/exura/textures/block/grass_block_side.png
+  assets/exura/textures/block/grass_block_top.png
+  assets/exura/textures/block/halitoses_generator_side.png
+  assets/exura/textures/block/halitosis_generator.png
+  assets/exura/textures/block/halitosis_generator_front.png
+  assets/exura/textures/block/heart_glass.png
+  assets/exura/textures/block/ineffable_glas.png
+  assets/exura/textures/block/ineffable_glass_inverted.png
+  assets/exura/textures/block/interact_back.png
+  assets/exura/textures/block/interact_mine.png
+  assets/exura/textures/block/interact_side.png
+  assets/exura/textures/block/interact_side_left.png
+  assets/exura/textures/block/interact_side_right.png
+  assets/exura/textures/block/interact_side_up.png
+  assets/exura/textures/block/interact_use.png
+  assets/exura/textures/block/inv_interface.png
+  assets/exura/textures/block/iron_block.png
+  assets/exura/textures/block/juiper_planks_2.png
+  assets/exura/textures/block/light_portal.png
+  assets/exura/textures/block/lill_ore_top.png
+  assets/exura/textures/block/lunar_panel.png
+  assets/exura/textures/block/machine_side_chest.png
+  assets/exura/textures/block/magical_log.png
+  assets/exura/textures/block/magical_planks.png
+  assets/exura/textures/block/magmatic_front.png
+  assets/exura/textures/block/magmatic_side.png
+  assets/exura/textures/block/magmatic_top.png
+  assets/exura/textures/block/mill_base.png
+  assets/exura/textures/block/mill_dragon_side.png
+  assets/exura/textures/block/mill_dragon_top.png
+  assets/exura/textures/block/mill_fire.png
+  assets/exura/textures/block/mill_fire_2.png
+  assets/exura/textures/block/mill_lava.png
+  assets/exura/textures/block/mill_lava_2.png
+  assets/exura/textures/block/mill_water.png
+  assets/exura/textures/block/mill_water_2.png
+  assets/exura/textures/block/mill_wind.png
+  assets/exura/textures/block/mill_wind_2.png
+  assets/exura/textures/block/netherstar_front.png
+  assets/exura/textures/block/netherstar_side.png
+  assets/exura/textures/block/netherstar_top.png
+  assets/exura/textures/block/oak_log.png
+  assets/exura/textures/block/oak_log_top.png
+  assets/exura/textures/block/oak_planks.png
+  assets/exura/textures/block/obsidian.png
+  assets/exura/textures/block/obsidian_glass.png
+  assets/exura/textures/block/obsidian_old.png
+  assets/exura/textures/block/octuble_compressed_cobblestone.png
+  assets/exura/textures/block/overclocked_generator_front.png
+  assets/exura/textures/block/overclocked_generator_top.png
+  assets/exura/textures/block/overclocked_side.png
+  assets/exura/textures/block/overworld_portal.png
+  assets/exura/textures/block/pink_front.png
+  assets/exura/textures/block/pink_side.png
+  assets/exura/textures/block/pink_top.png
+  assets/exura/textures/block/polished_stone.png
+  assets/exura/textures/block/potion_generator.png
+  assets/exura/textures/block/potion_generator_side.png
+  assets/exura/textures/block/potion_generator_top.png
+  assets/exura/textures/block/quadruple_compressed_cobblestone.png
+  assets/exura/textures/block/quantruple_compressed_dirt.png
+  assets/exura/textures/block/quantum_quarry.png
+  assets/exura/textures/block/quantum_quarry_bottom.png
+  assets/exura/textures/block/quantum_quarry_side.png
+  assets/exura/textures/block/quantum_quarry_side_2.png
+  assets/exura/textures/block/quantum_quarry_side_3.png
+  assets/exura/textures/block/quantum_quarry_side_4.png
+  assets/exura/textures/block/quantum_quarry_top.png
+  assets/exura/textures/block/quarryupgrade0.png
+  assets/exura/textures/block/quarryupgrade1.png
+  assets/exura/textures/block/quarryupgrade2.png
+  assets/exura/textures/block/quarryupgrade3.png
+  assets/exura/textures/block/quarryupgrade4.png
+  assets/exura/textures/block/quarryupgrade5.png
+  assets/exura/textures/block/quarryupgrade6.png
+  assets/exura/textures/block/quarryupgrade7.png
+  assets/exura/textures/block/quarryupgrade8.png
+  assets/exura/textures/block/quarryupgrade9.png
+  assets/exura/textures/block/quintuple_compressed_cobblestone.png
+  assets/exura/textures/block/rain_upgrade.png
+  assets/exura/textures/block/rainbo_stone.png
+  assets/exura/textures/block/rainbow.png
+  assets/exura/textures/block/rainbow_generator.png
+  assets/exura/textures/block/rainbow_generator_bottom.png
+  assets/exura/textures/block/rainbow_generator_top.png
+  assets/exura/textures/block/rainbow_half_gray.png
+  assets/exura/textures/block/rainbow_speed_upgrade.png
+  assets/exura/textures/block/red_orchit.png
+  assets/exura/textures/block/redstone_generator_front.png
+  assets/exura/textures/block/redstone_generator_top.png
+  assets/exura/textures/block/redstoneclock_1.png
+  assets/exura/textures/block/redstoneclock_animated.png
+  assets/exura/textures/block/redstoneclock_animated.png.mcmeta
+  assets/exura/textures/block/redstonegenerator_side.png
+  assets/exura/textures/block/reinforced_dark_glass.png
+  assets/exura/textures/block/resonator_base.png
+  assets/exura/textures/block/resonator_red.png
+  assets/exura/textures/block/resonator_texture_model.png
+  assets/exura/textures/block/resonator_top.png
+  assets/exura/textures/block/resturbed_mob_spawner.png
+  assets/exura/textures/block/rwtema_blade.png
+  assets/exura/textures/block/sand.png
+  assets/exura/textures/block/sandy_glass.png
+  assets/exura/textures/block/septuple_compressed_cobblestone.png
+  assets/exura/textures/block/sextuple_compressed_cobblestone.png
+  assets/exura/textures/block/slimy_generator_front.png
+  assets/exura/textures/block/slimy_generator_side.png
+  assets/exura/textures/block/slimy_generator_top.png
+  assets/exura/textures/block/solar_panel.png
+  assets/exura/textures/block/sorter_front.png
+  assets/exura/textures/block/sorter_top.png
+  assets/exura/textures/block/spawner_powered.png
+  assets/exura/textures/block/squareglass.png
+  assets/exura/textures/block/stoneburnt.png
+  assets/exura/textures/block/stonecross.png
+  assets/exura/textures/block/stonecutter_bottom.png
+  assets/exura/textures/block/survival_generator_front.png
+  assets/exura/textures/block/survival_generator_side.png
+  assets/exura/textures/block/survival_generator_top.png
+  assets/exura/textures/block/swirling_glass.png
+  assets/exura/textures/block/tnt_generator_front.png
+  assets/exura/textures/block/tnt_generator_side.png
+  assets/exura/textures/block/tnt_generator_top.png
+  assets/exura/textures/block/trash-can.png
+  assets/exura/textures/block/trash-can_energy.png
+  assets/exura/textures/block/trash-can_fluid.png
+  assets/exura/textures/block/triple_compressed_cobblestone.png
+  assets/exura/textures/block/triple_compressed_dirt.png
+  assets/exura/textures/block/truchet.png
+  assets/exura/textures/block/void_hopper.png
+  assets/exura/textures/block/wireless_fe_battery_side.png
+  assets/exura/textures/block/wireless_fe_battery_top.png
+  assets/exura/textures/item/
+  assets/exura/textures/item/amazing.png
+  assets/exura/textures/item/angel_ring_info.png
+  assets/exura/textures/item/bedrockiumingot.png
+  assets/exura/textures/item/book.png
+  assets/exura/textures/item/chandelier.png
+  assets/exura/textures/item/chickenring.png
+  assets/exura/textures/item/chickenring_advanced.png
+  assets/exura/textures/item/coal.png
+  assets/exura/textures/item/compound_bow.png
+  assets/exura/textures/item/defoliageaxe.png
+  assets/exura/textures/item/demon_ingot.png
+  assets/exura/textures/item/destructionpickaxe.png
+  assets/exura/textures/item/divisionsigil.png
+  assets/exura/textures/item/dye_powder_lunar.png
+  assets/exura/textures/item/emerald_red.png
+  assets/exura/textures/item/enchanted_ingot.png
+  assets/exura/textures/item/ender_eye_red.png
+  assets/exura/textures/item/ender_lilly_seed.png
+  assets/exura/textures/item/ender_lilly_stage_7.png
+  assets/exura/textures/item/endershard_1.png
+  assets/exura/textures/item/erosionshovel.png
+  assets/exura/textures/item/ethericsword.png
+  assets/exura/textures/item/evil_drop.png
+  assets/exura/textures/item/evil_infused_ingot.png
+  assets/exura/textures/item/eye_redstone.png
+  assets/exura/textures/item/feather_golden.png
+  assets/exura/textures/item/fire_axe.png
+  assets/exura/textures/item/flyingsquidring.png
+  assets/exura/textures/item/glass_cutter.png
+  assets/exura/textures/item/glasscutter.png
+  assets/exura/textures/item/globe.png
+  assets/exura/textures/item/golden_bag.png
+  assets/exura/textures/item/golden_lasso.png
+  assets/exura/textures/item/info_paper.png
+  assets/exura/textures/item/iron_ingot_dark.png
+  assets/exura/textures/item/lapis_lazuli.png
+  assets/exura/textures/item/magical_apple.png
+  assets/exura/textures/item/moon_stone.png
+  assets/exura/textures/item/opiniuma.png
+  assets/exura/textures/item/opiniumb.png
+  assets/exura/textures/item/opiniumc.png
+  assets/exura/textures/item/opiniumd.png
+  assets/exura/textures/item/opiniume.png
+  assets/exura/textures/item/opiniumf.png
+  assets/exura/textures/item/opiniumg.png
+  assets/exura/textures/item/opiniumh.png
+  assets/exura/textures/item/opiniumi.png
+  assets/exura/textures/item/pipe_wrench.png
+  assets/exura/textures/item/quarry_info.png
+  assets/exura/textures/item/red_coal.png
+  assets/exura/textures/item/red_orchit.png
+  assets/exura/textures/item/redstone_coil.png
+  assets/exura/textures/item/redstone_crystal.png
+  assets/exura/textures/item/redstone_gear.png
+  assets/exura/textures/item/reinforced_glass_cutter.png
+  assets/exura/textures/item/reroll_apple.png
+  assets/exura/textures/item/rwtema_blade.png
+  assets/exura/textures/item/shears.png
+  assets/exura/textures/item/temporalhoe.png
+  assets/exura/textures/item/unstable_ingot_outline.png
+  assets/exura/textures/item/unstable_nugget_outline.png
+  assets/exura/textures/item/upgrade_base.png
+  assets/exura/textures/item/upgrade_speed.png
+  assets/exura/textures/item/upgrade_speed_enchanted.png
+  assets/exura/textures/item/upgrade_speed_super.png
+  assets/exura/textures/screen/
+  assets/exura/textures/screen/advance_shredder.png
+  assets/exura/textures/screen/arrow_progress.png
+  assets/exura/textures/screen/chest.png
+  assets/exura/textures/screen/jhj.png
+  assets/exura/textures/screen/kong_da_xiang.png
+  assets/exura/textures/screen/levitation.png
+  assets/exura/textures/screen/processor.png
+  assets/exura/textures/screen/xiang.png
+  data/
+  data/exura/
+  data/exura/patchouli_books/
+  data/exura/patchouli_books/exura_book/
+  data/exura/patchouli_books/exura_book/book.json
+  data/exura/recipes/
+  data/exura/recipes/border_stone.json
+  data/exura/recipes/com_cob_1_rcp.json
+  data/exura/recipes/com_cob_1_rev_rcp.json
+  data/exura/recipes/com_cob_2_rcp.json
+  data/exura/recipes/com_cob_2_rev_rcp.json
+  data/exura/recipes/com_cob_3_rcp.json
+  data/exura/recipes/com_cob_3_rev_rcp.json
+  data/exura/recipes/com_cob_4_rcp.json
+  data/exura/recipes/com_cob_4_rev_rcp.json
+  data/exura/recipes/com_cob_5_rcp.json
+  data/exura/recipes/com_cob_5_rev_rcp.json
+  data/exura/recipes/com_cob_6_rcp.json
+  data/exura/recipes/com_cob_6_rev_rcp.json
+  data/exura/recipes/com_cob_7_rcp.json
+  data/exura/recipes/com_cob_7_rev_rcp.json
+  data/exura/recipes/com_cob_8_rcp.json
+  data/exura/recipes/com_cob_8_rev_rcp.json
+  data/exura/recipes/com_dirt_1_rcp.json
+  data/exura/recipes/com_dirt_1rev_rcp.json
+  data/exura/recipes/com_dirt_2_rcp.json
+  data/exura/recipes/com_dirt_2rev_rcp.json
+  data/exura/recipes/com_dirt_3_rcp.json
+  data/exura/recipes/com_dirt_3rev_rcp.json
+  data/exura/recipes/com_dirt_4_rcp.json
+  data/exura/recipes/com_dirt_4rev_rcp.json
+  data/exura/recipes/com_ne_1_rcp.json
+  data/exura/recipes/com_ne_2_rcp.json
+  data/exura/recipes/com_ne_3_rcp.json
+  data/exura/recipes/com_ne_4_rcp.json
+  data/exura/recipes/com_ne_5_rcp.json
+  data/exura/recipes/com_ne_6_rcp.json
+  data/exura/recipes/comgravel_1_rcp.json
+  data/exura/recipes/comgravel_1rev_rcp.json
+  data/exura/recipes/comgravel_2_rcp.json
+  data/exura/recipes/comgravel_2rev_rcp.json
+  data/exura/recipes/comne1rev_rcp.json
+  data/exura/recipes/comne2rev_rcp.json
+  data/exura/recipes/comne3rev_rcp.json
+  data/exura/recipes/comne4rev_rcp.json
+  data/exura/recipes/comne5rev_rcp.json
+  data/exura/recipes/comne6rev_rcp.json
+  data/exura/recipes/comsand_1_rcp.json
+  data/exura/recipes/comsand_1rev_rcp.json
+  data/exura/recipes/comsand_2_rcp.json
+  data/exura/recipes/comsand_2rev_rcp.json
+  data/exura/recipes/crossed_stone.json
+  data/exura/recipes/death_generator_rcp.json
+  data/exura/recipes/dragon_egg_mill.json
+  data/exura/recipes/ender_generator_rcp.json
+  data/exura/recipes/ender_shard.json
+  data/exura/recipes/explosive_generator_rcp.json
+  data/exura/recipes/eye_redstone.json
+  data/exura/recipes/fire_mill.json
+  data/exura/recipes/frosty_generator_rcp.json
+  data/exura/recipes/furnace_generator_rcp.json
+  data/exura/recipes/glass_cutter.json
+  data/exura/recipes/lava_mill.json
+  data/exura/recipes/lunar_dust.json
+  data/exura/recipes/lunar_panel.json
+  data/exura/recipes/machine_block_rcp.json
+  data/exura/recipes/netherstar_generator_rcp.json
+  data/exura/recipes/opiniuma.json
+  data/exura/recipes/opiniumb.json
+  data/exura/recipes/opiniumc.json
+  data/exura/recipes/opiniumd.json
+  data/exura/recipes/opiniume.json
+  data/exura/recipes/opiniumf.json
+  data/exura/recipes/opiniumg.json
+  data/exura/recipes/opiniumh.json
+  data/exura/recipes/opiniumi.json
+  data/exura/recipes/overclocked_generator_rcp.json
+  data/exura/recipes/pink_generator_rcp.json
+  data/exura/recipes/polished_stone.json
+  data/exura/recipes/polished_stone_rcp.json
+  data/exura/recipes/red_coal.json
+  data/exura/recipes/redstone_crystal.json
+  data/exura/recipes/redstone_gear.json
+  data/exura/recipes/solar_panel.json
+  data/exura/recipes/survival_generator_rcp.json
+  data/exura/recipes/transport_pipe.json
+  data/exura/recipes/transporter_node.json
+  data/exura/recipes/trunchet.json
+  data/exura/recipes/upgrade_base.json
+  data/exura/recipes/void_hopper.json
+  data/exura/recipes/water_mill.json
+  data/forge/
+  data/forge/tags/
+  data/forge/tags/items/
+  data/forge/tags/items/compressed_cobblestone.json
+  data/forge/tags/items/compressed_dirt.json
+  data/forge/tags/items/compressed_gravel.json
+  data/forge/tags/items/compressed_netherrack.json
+  data/forge/tags/items/compressed_sand.json
+  data/forge/tags/items/death_gen_tag.json
+  data/forge/tags/items/double_compressed_cobblestone.json
+  data/forge/tags/items/frosty_gen_tag.json
+  data/forge/tags/items/generator_eur.json
+  data/forge/tags/items/octuple_compressed_cobblestone.json
+  data/forge/tags/items/pink_items.json
+  data/forge/tags/items/quadruple_compressed_cobblestone.json
+  data/forge/tags/items/quintuple_compressed_cobblestone.json
+  data/forge/tags/items/septuple_compressed_cobblestone.json
+  data/forge/tags/items/sextuple_compressed_cobblestone.json
+  data/forge/tags/items/triple_compressed_cobblestone.json
+  data/forge/tags/items/ungrown_ender_lilly_states.json
+  io/
+  io/github/
+  io/github/kongzhongtitian/
+  io/github/kongzhongtitian/ExURA/
+  io/github/kongzhongtitian/ExURA/AutoExecutor.class
+  io/github/kongzhongtitian/ExURA/AutoExecutorBlockEntity.class
+  io/github/kongzhongtitian/ExURA/BreakEventHandler.class
+  io/github/kongzhongtitian/ExURA/CommandEventHandler.class
+  io/github/kongzhongtitian/ExURA/CountedIngredient.class
+  io/github/kongzhongtitian/ExURA/DTBaseBlockEntity$1.class
+  io/github/kongzhongtitian/ExURA/DTBaseBlockEntity.class
+  io/github/kongzhongtitian/ExURA/DTBaseMenu.class
+  io/github/kongzhongtitian/ExURA/DTBaseProcessingBlockEntity.class
+  io/github/kongzhongtitian/ExURA/DTBaseScreen.class
+  io/github/kongzhongtitian/ExURA/DeathGenerator.class
+  io/github/kongzhongtitian/ExURA/DeathGeneratorBlockEntity$1.class
+  io/github/kongzhongtitian/ExURA/DeathGeneratorBlockEntity$2.class
+  io/github/kongzhongtitian/ExURA/DeathGeneratorBlockEntity.class
+  io/github/kongzhongtitian/ExURA/DeathGeneratorMenu$1.class
+  io/github/kongzhongtitian/ExURA/DeathGeneratorMenu.class
+  io/github/kongzhongtitian/ExURA/DeathGeneratorScreen.class
+  io/github/kongzhongtitian/ExURA/DragonEggMill.class
+  io/github/kongzhongtitian/ExURA/DragonEggMillBlockEntity.class
+  io/github/kongzhongtitian/ExURA/EnderGenerator.class
+  io/github/kongzhongtitian/ExURA/EnderGeneratorBlockEntity$1.class
+  io/github/kongzhongtitian/ExURA/EnderGeneratorBlockEntity$2.class
+  io/github/kongzhongtitian/ExURA/EnderGeneratorBlockEntity.class
+  io/github/kongzhongtitian/ExURA/EnderGeneratorMenu$1.class
+  io/github/kongzhongtitian/ExURA/EnderGeneratorMenu.class
+  io/github/kongzhongtitian/ExURA/EnderGeneratorScreen.class
+  io/github/kongzhongtitian/ExURA/ExURA.class
+  io/github/kongzhongtitian/ExURA/ExURABlockEntity.class
+  io/github/kongzhongtitian/ExURA/ExURABlocks.class
+  io/github/kongzhongtitian/ExURA/ExURACommand.class
+  io/github/kongzhongtitian/ExURA/ExURACreativeTab.class
+  io/github/kongzhongtitian/ExURA/ExURAItems.class
+  io/github/kongzhongtitian/ExURA/ExURAMenu.class
+  io/github/kongzhongtitian/ExURA/ExURARecipe.class
+  io/github/kongzhongtitian/ExURA/ExURARecipeSerializers.class
+  io/github/kongzhongtitian/ExURA/ExplosiveGenerator.class
+  io/github/kongzhongtitian/ExURA/ExplosiveGeneratorBlockEntity$1.class
+  io/github/kongzhongtitian/ExURA/ExplosiveGeneratorBlockEntity$2.class
+  io/github/kongzhongtitian/ExURA/ExplosiveGeneratorBlockEntity.class
+  io/github/kongzhongtitian/ExURA/ExplosiveGeneratorMenu$1.class
+  io/github/kongzhongtitian/ExURA/ExplosiveGeneratorMenu.class
+  io/github/kongzhongtitian/ExURA/ExplosiveGeneratorScreen.class
+  io/github/kongzhongtitian/ExURA/FacingBlock.class
+  io/github/kongzhongtitian/ExURA/FireMill.class
+  io/github/kongzhongtitian/ExURA/FireMillBlockEntity.class
+  io/github/kongzhongtitian/ExURA/FrostyGenerator.class
+  io/github/kongzhongtitian/ExURA/FrostyGeneratorBlockEntity$1.class
+  io/github/kongzhongtitian/ExURA/FrostyGeneratorBlockEntity$2.class
+  io/github/kongzhongtitian/ExURA/FrostyGeneratorBlockEntity.class
+  io/github/kongzhongtitian/ExURA/FrostyGeneratorMenu$1.class
+  io/github/kongzhongtitian/ExURA/FrostyGeneratorMenu.class
+  io/github/kongzhongtitian/ExURA/FrostyGeneratorScreen.class
+  io/github/kongzhongtitian/ExURA/FurnaceGenerator.class
+  io/github/kongzhongtitian/ExURA/FurnaceGeneratorBlockEntity$1.class
+  io/github/kongzhongtitian/ExURA/FurnaceGeneratorBlockEntity$2.class
+  io/github/kongzhongtitian/ExURA/FurnaceGeneratorBlockEntity.class
+  io/github/kongzhongtitian/ExURA/FurnaceGeneratorMenu$1.class
+  io/github/kongzhongtitian/ExURA/FurnaceGeneratorMenu.class
+  io/github/kongzhongtitian/ExURA/FurnaceGeneratorScreen.class
+  io/github/kongzhongtitian/ExURA/GiveBookOnLogin.class
+  io/github/kongzhongtitian/ExURA/GlobalVars.class
+  io/github/kongzhongtitian/ExURA/GlobalVarsEventHandler.class
+  io/github/kongzhongtitian/ExURA/HalitosisGenerator.class
+  io/github/kongzhongtitian/ExURA/HalitosisGeneratorBlockEntity$1.class
+  io/github/kongzhongtitian/ExURA/HalitosisGeneratorBlockEntity$2.class
+  io/github/kongzhongtitian/ExURA/HalitosisGeneratorBlockEntity.class
+  io/github/kongzhongtitian/ExURA/HalitosisGeneratorMenu$1.class
+  io/github/kongzhongtitian/ExURA/HalitosisGeneratorMenu.class
+  io/github/kongzhongtitian/ExURA/HalitosisGeneratorScreen.class
+  io/github/kongzhongtitian/ExURA/InputOutputRecipe.class
+  io/github/kongzhongtitian/ExURA/InputOutputRecipeSerializer$RecipeJsonData.class
+  io/github/kongzhongtitian/ExURA/InputOutputRecipeSerializer.class
+  io/github/kongzhongtitian/ExURA/LavaMill.class
+  io/github/kongzhongtitian/ExURA/LavaMillBlockEntity.class
+  io/github/kongzhongtitian/ExURA/LunarPanel.class
+  io/github/kongzhongtitian/ExURA/LunarPanelBlockEntity.class
+  io/github/kongzhongtitian/ExURA/NetherstarGenerator.class
+  io/github/kongzhongtitian/ExURA/NetherstarGeneratorBlockEntity$1.class
+  io/github/kongzhongtitian/ExURA/NetherstarGeneratorBlockEntity$2.class
+  io/github/kongzhongtitian/ExURA/NetherstarGeneratorBlockEntity.class
+  io/github/kongzhongtitian/ExURA/NetherstarGeneratorMenu$1.class
+  io/github/kongzhongtitian/ExURA/NetherstarGeneratorMenu.class
+  io/github/kongzhongtitian/ExURA/NetherstarGeneratorScreen.class
+  io/github/kongzhongtitian/ExURA/OverclockedGenerator.class
+  io/github/kongzhongtitian/ExURA/OverclockedGeneratorBlockEntity$1.class
+  io/github/kongzhongtitian/ExURA/OverclockedGeneratorBlockEntity$2.class
+  io/github/kongzhongtitian/ExURA/OverclockedGeneratorBlockEntity.class
+  io/github/kongzhongtitian/ExURA/OverclockedGeneratorMenu$1.class
+  io/github/kongzhongtitian/ExURA/OverclockedGeneratorMenu.class
+  io/github/kongzhongtitian/ExURA/OverclockedGeneratorScreen.class
+  io/github/kongzhongtitian/ExURA/PinkGenerator.class
+  io/github/kongzhongtitian/ExURA/PinkGeneratorBlockEntity$1.class
+  io/github/kongzhongtitian/ExURA/PinkGeneratorBlockEntity$2.class
+  io/github/kongzhongtitian/ExURA/PinkGeneratorBlockEntity.class
+  io/github/kongzhongtitian/ExURA/PinkGeneratorMenu$1.class
+  io/github/kongzhongtitian/ExURA/PinkGeneratorMenu.class
+  io/github/kongzhongtitian/ExURA/PinkGeneratorScreen.class
+  io/github/kongzhongtitian/ExURA/ProcessingData.class
+  io/github/kongzhongtitian/ExURA/RecipeOutputUtil.class
+  io/github/kongzhongtitian/ExURA/Resonator.class
+  io/github/kongzhongtitian/ExURA/ResonatorBlockEntity.class
+  io/github/kongzhongtitian/ExURA/ResonatorMenu$1.class
+  io/github/kongzhongtitian/ExURA/ResonatorMenu.class
+  io/github/kongzhongtitian/ExURA/ResonatorRecipe.class
+  io/github/kongzhongtitian/ExURA/ResonatorRecipeSerializer.class
+  io/github/kongzhongtitian/ExURA/ResonatorScreen.class
+  io/github/kongzhongtitian/ExURA/ScreenRegister.class
+  io/github/kongzhongtitian/ExURA/SolarPanel.class
+  io/github/kongzhongtitian/ExURA/SolarPanelBlockEntity.class
+  io/github/kongzhongtitian/ExURA/SurvivalGenerator.class
+  io/github/kongzhongtitian/ExURA/SurvivalGeneratorBlockEntity$1.class
+  io/github/kongzhongtitian/ExURA/SurvivalGeneratorBlockEntity$2.class
+  io/github/kongzhongtitian/ExURA/SurvivalGeneratorBlockEntity.class
+  io/github/kongzhongtitian/ExURA/SurvivalGeneratorMenu$1.class
+  io/github/kongzhongtitian/ExURA/SurvivalGeneratorMenu.class
+  io/github/kongzhongtitian/ExURA/SurvivalGeneratorScreen.class
+  io/github/kongzhongtitian/ExURA/TransportPipe.class
+  io/github/kongzhongtitian/ExURA/TransportPipeBlockEntity.class
+  io/github/kongzhongtitian/ExURA/TransporterNode.class
+  io/github/kongzhongtitian/ExURA/TransporterNodeBlockEntity$1.class
+  io/github/kongzhongtitian/ExURA/TransporterNodeBlockEntity.class
+  io/github/kongzhongtitian/ExURA/TransporterNodeMenu$LockedSlot.class
+  io/github/kongzhongtitian/ExURA/TransporterNodeMenu.class
+  io/github/kongzhongtitian/ExURA/TransporterNodeScreen.class
+  io/github/kongzhongtitian/ExURA/VoidHopper.class
+  io/github/kongzhongtitian/ExURA/VoidHopperBlockEntity.class
+  io/github/kongzhongtitian/ExURA/WaterMill.class
+  io/github/kongzhongtitian/ExURA/WaterMillBlockEntity.class
+  logo.png
+  pack.mcmeta

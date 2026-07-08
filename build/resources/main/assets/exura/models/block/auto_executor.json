@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "exura:block/aoto_executor",
+    "side": "exura:block/aearoundk",
+    "top": "exura:block/aeback"
+  }
+}
