@@ -23,6 +23,8 @@ public class ExURAItems {
     public static final RegistryObject<Item> UNSTABLE_INGOT_OUTLINE = registerSimpleItem("unstable_ingot_outline");
     public static final RegistryObject<Item> UNSTABLE_NUGGET_OUTLINE = registerSimpleItem("unstable_nugget_outline");
     public static final RegistryObject<Item> EVIL_INFUSED_INGOT = registerSimpleItem("evil_infused_ingot");
+    public static final RegistryObject<Item> RAINBOW_GENERATOR_BOTTOM_TOP = registerSimpleItem("rainbow_generator_bottom_top");
+    public static final RegistryObject<Item> RAINBOW_GENERATOR_BOTTOM = registerSimpleItem("rainbow_generator_bottom");
     public static final RegistryObject<Item> UPGRADE_SPEED = ITEMS.register("upgrade_speed",
             () -> new Item(new Item.Properties().stacksTo(4)));
     public static final RegistryObject<Item> UPGRADE_SPEED_ENCHANTED = ITEMS.register("upgrade_speed_enchanted",

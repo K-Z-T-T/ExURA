@@ -10,14 +10,14 @@
       "item": "minecraft:redstone_torch"
     },
     "B": {
-      "item": "minecraft:redstone_stone"
+      "item": "minecraft:redstone"
     },
     "C": {
-      "item": "exura:border_stone"
+      "item": "exura:transport_pipe"
     }
   },
   "result": {
     "item": "exura:transporter_node",
-    "count": 1
+    "count": 4
   }
 }

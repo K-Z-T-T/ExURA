@@ -10,7 +10,7 @@
       "item": "minecraft:smooth_stone_slab"
     },
     "B": {
-      "item": "minecraft:redstone_stone"
+      "item": "minecraft:redstone"
     },
     "C": {
       "item": "exura:border_stone"
@@ -18,6 +18,6 @@
   },
   "result": {
     "item": "exura:transport_pipe",
-    "count": 1
+    "count": 16
   }
 }

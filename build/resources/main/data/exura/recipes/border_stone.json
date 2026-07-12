@@ -9,11 +9,11 @@
       "item": "minecraft:stone"
     },
     "B": {
-      "item": "minecraft:stonebrick"
+      "item": "minecraft:stone_bricks"
     }
   },
   "result": {
-    "item": "exura:crossed_stone",
+    "item": "exura:border_stone",
     "count": 4
   }
 }

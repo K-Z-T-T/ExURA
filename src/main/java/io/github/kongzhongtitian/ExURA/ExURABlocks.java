@@ -23,12 +23,6 @@ public class ExURABlocks {
                     .strength(5.0F, 6.0F)
                     .requiresCorrectToolForDrops();
 
-    public static final RegistryObject<Block> RAINBOW_GENERATOR_BOTTOM_TOP = registerBlock("rainbow_generator_bottom_top",
-            () -> new Block(METAL_DEEPSLATE_ORE_PROPERTIES));
-
-    public static final RegistryObject<Block> RAINBOW_GENERATOR_BOTTOM = registerBlock("rainbow_generator_bottom",
-            () -> new Block(METAL_DEEPSLATE_ORE_PROPERTIES));
-
     public static final RegistryObject<Block> MAGICAL_WOOD = registerBlock("magical_wood",
             () -> new Block(METAL_DEEPSLATE_ORE_PROPERTIES));
 
@@ -176,8 +170,10 @@ public class ExURABlocks {
     public static final RegistryObject<Block> FROSTY_GENERATOR = registerBlock("frosty_generator",
             () -> new FrostyGenerator(BlockBehaviour.Properties.of()));
 
-    public static final RegistryObject<Block> TRANSPORTER_NODE = BLOCKS.register("transporter_node", TransporterNode::new);
-    public static final RegistryObject<Block> TRANSPORT_PIPE = BLOCKS.register("transport_pipe", TransportPipe::new);
+    public static final RegistryObject<Block> TRANSPORTER_NODE = registerBlock("transporter_node",
+            TransporterNode::new);
+    public static final RegistryObject<Block> TRANSPORT_PIPE = registerBlock("transport_pipe",
+            TransportPipe::new);
 
     public static final RegistryObject<Block> PINK_GENERATOR = registerBlock("pink_generator",
             () -> new PinkGenerator(BlockBehaviour.Properties.of()));
