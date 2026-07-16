@@ -138,4 +138,11 @@ public class ExURABlockEntity {
                             AutoExecutorBlockEntity::new,
                             ExURABlocks.STONE_DRUM.get()
                     ).build(null));
+
+    public static final RegistryObject<BlockEntityType<AutoExecutorBlockEntity>> IRON_DRUM_BLOCK_ENTITY =
+            BLOCK_ENTITY_TYPES.register("iron_drum_block_entity",
+                    () -> BlockEntityType.Builder.of(
+                            AutoExecutorBlockEntity::new,
+                            ExURABlocks.IRON_DRUM.get()
+                    ).build(null));
 }
