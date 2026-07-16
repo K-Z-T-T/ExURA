@@ -181,6 +181,9 @@ public class ExURABlocks {
     public static final RegistryObject<Block> AUTO_EXECUTOR = registerBlock("auto_executor",
             () -> new AutoExecutor(BlockBehaviour.Properties.of()));
 
+    public static final RegistryObject<Block> STONE_DRUM = registerBlock("stone_drum",
+            () -> new StoneDrum(BlockBehaviour.Properties.of()));
+
     public static RegistryObject<Block> registerSimpleBlock(String name, BlockBehaviour.Properties properties) {
         RegistryObject<Block> block = BLOCKS.register(name, () -> new Block(properties));
         ExURAItems.ITEMS.register(name, () -> new BlockItem(block.get(), new Item.Properties()));
