@@ -187,6 +187,12 @@ public class ExURABlocks {
     public static final RegistryObject<Block> IRON_DRUM = registerBlock("iron_drum",
             () -> new StoneDrum(BlockBehaviour.Properties.of()));
 
+    public static final RegistryObject<Block> REINFORCED_LARGE_DRUM = registerBlock("reinforced_large_drum",
+            () -> new ReinforcedLargeDrum(BlockBehaviour.Properties.of()));
+
+    public static final RegistryObject<Block> DEMONICALLY_GARGANTUAN_DRUM = registerBlock("demonically_gargantuan_drum",
+            () -> new DemonicallyGargantuanDrum(BlockBehaviour.Properties.of()));
+
     public static RegistryObject<Block> registerSimpleBlock(String name, BlockBehaviour.Properties properties) {
         RegistryObject<Block> block = BLOCKS.register(name, () -> new Block(properties));
         ExURAItems.ITEMS.register(name, () -> new BlockItem(block.get(), new Item.Properties()));

@@ -132,17 +132,31 @@ public class ExURABlockEntity {
                             ExURABlocks.AUTO_EXECUTOR.get()
                     ).build(null));
 
-    public static final RegistryObject<BlockEntityType<AutoExecutorBlockEntity>> STONE_DRUM_BLOCK_ENTITY =
+    public static final RegistryObject<BlockEntityType<StoneDrumBlockEntity>> STONE_DRUM_BLOCK_ENTITY =
             BLOCK_ENTITY_TYPES.register("stone_drum_block_entity",
                     () -> BlockEntityType.Builder.of(
-                            AutoExecutorBlockEntity::new,
+                            StoneDrumBlockEntity::new,
                             ExURABlocks.STONE_DRUM.get()
                     ).build(null));
 
-    public static final RegistryObject<BlockEntityType<AutoExecutorBlockEntity>> IRON_DRUM_BLOCK_ENTITY =
+    public static final RegistryObject<BlockEntityType<IronDrumBlockEntity>> IRON_DRUM_BLOCK_ENTITY =
             BLOCK_ENTITY_TYPES.register("iron_drum_block_entity",
                     () -> BlockEntityType.Builder.of(
-                            AutoExecutorBlockEntity::new,
+                            IronDrumBlockEntity::new,
                             ExURABlocks.IRON_DRUM.get()
+                    ).build(null));
+
+    public static final RegistryObject<BlockEntityType<ReinforcedLargeDrumBlockEntity>> REINFORCED_LARGE_DRUM_BLOCK_ENTITY =
+            BLOCK_ENTITY_TYPES.register("reinforced_large_drum_block_entity",
+                    () -> BlockEntityType.Builder.of(
+                            ReinforcedLargeDrumBlockEntity::new,
+                            ExURABlocks.REINFORCED_LARGE_DRUM.get()
+                    ).build(null));
+
+    public static final RegistryObject<BlockEntityType<DemonicallyGargantuanDrumBlockEntity>> DEMONICALLY_GARGANTUAN_DRUM_BLOCK_ENTITY =
+            BLOCK_ENTITY_TYPES.register("demonically_gargantuan_drum_block_entity",
+                    () -> BlockEntityType.Builder.of(
+                            DemonicallyGargantuanDrumBlockEntity::new,
+                            ExURABlocks.DEMONICALLY_GARGANTUAN_DRUM.get()
                     ).build(null));
 }
