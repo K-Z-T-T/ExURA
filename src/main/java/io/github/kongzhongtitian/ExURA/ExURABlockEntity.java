@@ -9,9 +9,6 @@ public class ExURABlockEntity {
     public static final DeferredRegister<BlockEntityType<?>> BLOCK_ENTITY_TYPES =
             DeferredRegister.create(Registries.BLOCK_ENTITY_TYPE, ExURA.MODID);
 
-    public static final RegistryObject<BlockEntityType<VoidHopperBlockEntity>> VOID_HOPPER_BLOCK_ENTITY =
-            BLOCK_ENTITY_TYPES.register("void_hopper_block_entity",
-                    () -> BlockEntityType.Builder.of(VoidHopperBlockEntity::new, ExURABlocks.VOID_HOPPER.get()).build(null));
 
     public static final RegistryObject<BlockEntityType<WaterMillBlockEntity>> WATER_MILL_BLOCK_ENTITY =
             BLOCK_ENTITY_TYPES.register("water_mill_block_entity",
@@ -102,20 +99,6 @@ public class ExURABlockEntity {
                     () -> BlockEntityType.Builder.of(
                             FrostyGeneratorBlockEntity::new,
                             ExURABlocks.FROSTY_GENERATOR.get()
-                    ).build(null));
-
-    public static final RegistryObject<BlockEntityType<TransporterNodeBlockEntity>> TRANSPORTER_NODE =
-            BLOCK_ENTITY_TYPES.register("transporter_node_block_entity",
-                    () -> BlockEntityType.Builder.of(
-                            TransporterNodeBlockEntity::new,
-                            ExURABlocks.TRANSPORTER_NODE.get()
-                    ).build(null));
-
-    public static final RegistryObject<BlockEntityType<TransportPipeBlockEntity>> TRANSPORT_PIPE =
-            BLOCK_ENTITY_TYPES.register("transport_pipe_block_entity",
-                    () -> BlockEntityType.Builder.of(
-                            TransportPipeBlockEntity::new,
-                            ExURABlocks.TRANSPORT_PIPE.get()
                     ).build(null));
 
     public static final RegistryObject<BlockEntityType<PinkGeneratorBlockEntity>> PINK_GENERATOR_BLOCK_ENTITY =

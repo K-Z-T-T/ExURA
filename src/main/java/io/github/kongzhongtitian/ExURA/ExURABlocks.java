@@ -119,9 +119,6 @@ public class ExURABlocks {
     public static final RegistryObject<Block> MACHINE_BLOCK = registerBlock("machine_block",
             () -> new Block(METAL_DEEPSLATE_ORE_PROPERTIES));
 
-    public static final RegistryObject<Block> VOID_HOPPER = registerBlock("void_hopper",
-            () -> new VoidHopper(BlockBehaviour.Properties.of()));
-
     public static final RegistryObject<Block> WATER_MILL = registerBlock("water_mill",
             () -> new WaterMill(BlockBehaviour.Properties.of()));
 
@@ -169,11 +166,6 @@ public class ExURABlocks {
 
     public static final RegistryObject<Block> FROSTY_GENERATOR = registerBlock("frosty_generator",
             () -> new FrostyGenerator(BlockBehaviour.Properties.of()));
-
-    public static final RegistryObject<Block> TRANSPORTER_NODE = registerBlock("transporter_node",
-            TransporterNode::new);
-    public static final RegistryObject<Block> TRANSPORT_PIPE = registerBlock("transport_pipe",
-            TransportPipe::new);
 
     public static final RegistryObject<Block> PINK_GENERATOR = registerBlock("pink_generator",
             () -> new PinkGenerator(BlockBehaviour.Properties.of()));

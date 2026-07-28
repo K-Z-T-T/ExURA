@@ -13,7 +13,6 @@ public class ScreenRegister {
         event.enqueueWork(() -> {
             MenuScreens.register(ExURAMenu.RESONATOR_MENU.get(), ResonatorScreen::new);
             MenuScreens.register(ExURAMenu.FURNACE_GENERATOR_MENU.get(), FurnaceGeneratorScreen::new);
-            MenuScreens.register(ExURAMenu.TRANSPORTER_NODE_MENU.get(), TransporterNodeScreen::new);
             MenuScreens.register(ExURAMenu.FROSTY_GENERATOR_MENU.get(), FrostyGeneratorScreen::new);
             MenuScreens.register(ExURAMenu.DEATH_GENERATOR_MENU.get(), DeathGeneratorScreen::new);
             MenuScreens.register(ExURAMenu.ENDER_GENERATOR_MENU.get(), EnderGeneratorScreen::new);
